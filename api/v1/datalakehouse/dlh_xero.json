@@ -1,0 +1,67 @@
+{
+    "name": "dlh_xero",
+    "namespace": "datalakehouse",
+    "description": "dbt models for dlh-xero-analytics-dbt",
+    "latest": "0.1.4",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.1": {
+            "id": "datalakehouse/dlh_xero/0.1.1",
+            "name": "dlh_xero",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.21.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "36c443b01318bfc70c2f5d347317490300f6108a"
+            }
+        },
+        "0.1.2": {
+            "id": "datalakehouse/dlh_xero/0.1.2",
+            "name": "dlh_xero",
+            "version": "0.1.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.21.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "7de1d8c32a40d80f09b9a5f9d06abda572b75158"
+            }
+        },
+        "0.1.3": {
+            "id": "datalakehouse/dlh_xero/0.1.3",
+            "name": "dlh_xero",
+            "version": "0.1.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.21.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ca261ba11edfa3ee819de52ad9a9b39130081ea1"
+            }
+        },
+        "0.1.4": {
+            "id": "datalakehouse/dlh_xero/0.1.4",
+            "name": "dlh_xero",
+            "version": "0.1.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=1.0.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3202a0795acc39932ba26721e23c69103bbfc8d1"
+            }
+        }
+    }
+}

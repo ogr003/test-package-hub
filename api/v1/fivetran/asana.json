@@ -1,0 +1,189 @@
+{
+    "name": "asana",
+    "namespace": "fivetran",
+    "description": "dbt models for dbt_asana",
+    "latest": "0.6.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "fivetran/asana/v0.1.0",
+            "name": "asana",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": "0.4.0"
+                },
+                {
+                    "package": "fivetran/asana_source",
+                    "version": "0.1.0"
+                }
+            ],
+            "require_dbt_version": ">=0.17.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ce3f1de91a1f5aea8ed89e8858e31f4763e5808b"
+            }
+        },
+        "0.2.0": {
+            "id": "fivetran/asana/v0.2.0",
+            "name": "asana",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/asana_source",
+                    "version": "0.2.0"
+                },
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                },
+                {
+                    "git": "https://github.com/fivetran/dbt_fivetran_utils.git",
+                    "warn-unpinned": false
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.19.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "7f0388e9776383dfa13eadc1a2ce4979c049c4eb"
+            }
+        },
+        "0.3.0": {
+            "id": "fivetran/asana/v0.3.0",
+            "name": "asana",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/asana_source",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3ca9c3f76aea5fd86c8b03f0090e34ea12a4b1d9"
+            }
+        },
+        "0.3.1": {
+            "id": "fivetran/asana/v0.3.1",
+            "name": "asana",
+            "version": "0.3.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/asana_source",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c32deb0fce059464df397d567c94908adb1c678c"
+            }
+        },
+        "0.4.0": {
+            "id": "fivetran/asana/v0.4.0",
+            "name": "asana",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/asana_source",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.20.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "2ac4c1c48f6bd1b6c210159d3f2c1c9e23bcbc12"
+            }
+        },
+        "0.5.0": {
+            "id": "fivetran/asana/v0.5.0",
+            "name": "asana",
+            "version": "0.5.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/asana_source",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1e529ac7d49aa03127008f27bdefe6200889a25d"
+            }
+        },
+        "0.6.0": {
+            "id": "fivetran/asana/v0.6.0",
+            "name": "asana",
+            "version": "0.6.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/asana_source",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5cb1760ffbb44e4162f5e287559facddf62d1a22"
+            }
+        }
+    }
+}

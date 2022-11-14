@@ -1,0 +1,349 @@
+{
+    "name": "quickbooks",
+    "namespace": "fivetran",
+    "description": "dbt models for dbt_quickbooks",
+    "latest": "0.5.3",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "fivetran/quickbooks/v0.1.0",
+            "name": "quickbooks",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/quickbooks_source",
+                    "version": "0.1.0"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5b0c439c772188aa38ec6697ca8cf696bf3f72f8"
+            }
+        },
+        "0.1.1": {
+            "id": "fivetran/quickbooks/v0.1.1",
+            "name": "quickbooks",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/quickbooks_source",
+                    "version": "0.1.1"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "7cc49068d4788e1120fd8d415a0b6a5aec81b606"
+            }
+        },
+        "0.1.2": {
+            "id": "fivetran/quickbooks/v0.1.2",
+            "name": "quickbooks",
+            "version": "0.1.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/quickbooks_source",
+                    "version": "0.1.2"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "69561ded6bd29349328e67f8114b96b112a1d329"
+            }
+        },
+        "0.2.0": {
+            "id": "fivetran/quickbooks/v0.2.0",
+            "name": "quickbooks",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/quickbooks_source",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e9580e4bf8ef1e36a025cf1ee95966eddd0c39d3"
+            }
+        },
+        "0.2.1": {
+            "id": "fivetran/quickbooks/v0.2.1",
+            "name": "quickbooks",
+            "version": "0.2.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/quickbooks_source",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c39221c49144c53b6279d9d682ea8c41b43f9779"
+            }
+        },
+        "0.2.2": {
+            "id": "fivetran/quickbooks/v0.2.2",
+            "name": "quickbooks",
+            "version": "0.2.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/quickbooks_source",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d5eca3ee4aebcb9e177541345eba1ca4f8ab1ed1"
+            }
+        },
+        "0.2.3": {
+            "id": "fivetran/quickbooks/v0.2.3",
+            "name": "quickbooks",
+            "version": "0.2.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/quickbooks_source",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b14bdd085c2f98bce600991c4ba9b118909dc99e"
+            }
+        },
+        "0.2.4": {
+            "id": "fivetran/quickbooks/v0.2.4",
+            "name": "quickbooks",
+            "version": "0.2.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/quickbooks_source",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "de8a2f3157ac1942200e3a2def844a9f8ea3f040"
+            }
+        },
+        "0.3.0": {
+            "id": "fivetran/quickbooks/v0.3.0",
+            "name": "quickbooks",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/quickbooks_source",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.20.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "f327b721fced74ee7e612b3421087febec25f9bd"
+            }
+        },
+        "0.4.0": {
+            "id": "fivetran/quickbooks/v0.4.0",
+            "name": "quickbooks",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/quickbooks_source",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ce42b3eed4c721b0c9513c90704c63d37654a860"
+            }
+        },
+        "0.5.0": {
+            "id": "fivetran/quickbooks/v0.5.0",
+            "name": "quickbooks",
+            "version": "0.5.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/quickbooks_source",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "f95761484c667efef298b721bcf2f11c0e371cc7"
+            }
+        },
+        "0.5.1": {
+            "id": "fivetran/quickbooks/v0.5.1",
+            "name": "quickbooks",
+            "version": "0.5.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/quickbooks_source",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "2919ed89a6647e1c5f33a08ebe4cc77f4a65bf6a"
+            }
+        },
+        "0.5.2": {
+            "id": "fivetran/quickbooks/v0.5.2",
+            "name": "quickbooks",
+            "version": "0.5.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/quickbooks_source",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "883b0729abd57f49aa0fc88e48070d5988ed899b"
+            }
+        },
+        "0.5.3": {
+            "id": "fivetran/quickbooks/v0.5.3",
+            "name": "quickbooks",
+            "version": "0.5.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/quickbooks_source",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "34a220f1511fa6504722be2c47ba1331ba9c6acd"
+            }
+        }
+    }
+}

@@ -1,0 +1,265 @@
+{
+    "name": "snapchat_ads_source",
+    "namespace": "fivetran",
+    "description": "dbt models for dbt_snapchat_ads_source",
+    "latest": "0.4.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "fivetran/snapchat_ads_source/v0.1.0",
+            "name": "snapchat_ads_source",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                },
+                {
+                    "git": "https://github.com/fivetran/dbt_fivetran_utils.git",
+                    "warn-unpinned": false
+                },
+                {
+                    "package": "fishtown-analytics/spark_utils",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.19.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "97a46073d633f2d928f7efc8b674ff5311233cdd"
+            }
+        },
+        "0.1.1": {
+            "id": "fivetran/snapchat_ads_source/v0.1.1",
+            "name": "snapchat_ads_source",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                },
+                {
+                    "package": "fishtown-analytics/spark_utils",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.19.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c05445d4ddc94268ae0eb1043f00db84cf00d07c"
+            }
+        },
+        "0.1.2": {
+            "id": "fivetran/snapchat_ads_source/v0.1.2",
+            "name": "snapchat_ads_source",
+            "version": "0.1.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                },
+                {
+                    "package": "fishtown-analytics/spark_utils",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.19.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "9ad6ebad05f0501d2e9ee058aef68e07b297d738"
+            }
+        },
+        "0.2.0": {
+            "id": "fivetran/snapchat_ads_source/v0.2.0",
+            "name": "snapchat_ads_source",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "dbt-labs/spark_utils",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.20.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "fb436a70ed31aa9df757a7451d5df56c936d17c1"
+            }
+        },
+        "0.2.1": {
+            "id": "fivetran/snapchat_ads_source/v0.2.1",
+            "name": "snapchat_ads_source",
+            "version": "0.2.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "dbt-labs/spark_utils",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.20.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b9f5a819f548ecc2393eb9b79d343c1ef242e711"
+            }
+        },
+        "0.3.0": {
+            "id": "fivetran/snapchat_ads_source/v0.3.0",
+            "name": "snapchat_ads_source",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "dbt-labs/spark_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1e80c791385649d248e62d0bd9d10e126fe08498"
+            }
+        },
+        "0.3.1": {
+            "id": "fivetran/snapchat_ads_source/v0.3.1",
+            "name": "snapchat_ads_source",
+            "version": "0.3.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "dbt-labs/spark_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1c787badf289a037b68d79d91d639a0220252e55"
+            }
+        },
+        "0.4.0": {
+            "id": "fivetran/snapchat_ads_source/v0.4.0",
+            "name": "snapchat_ads_source",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "dbt-labs/spark_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "88a655a2c56688ee6780f1b76451b63227e0b343"
+            }
+        }
+    }
+}

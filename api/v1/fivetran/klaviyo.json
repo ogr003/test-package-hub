@@ -1,0 +1,227 @@
+{
+    "name": "klaviyo",
+    "namespace": "fivetran",
+    "description": "dbt models for dbt_klaviyo",
+    "latest": "0.4.2",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "fivetran/klaviyo/v0.1.0",
+            "name": "klaviyo",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/klaviyo_source",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "7df4195bd81f8fc30feb5d2bd190bcc32894ede2"
+            }
+        },
+        "0.1.1": {
+            "id": "fivetran/klaviyo/v0.1.1",
+            "name": "klaviyo",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/klaviyo_source",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "a90f787df7a63fabba28f37b38bc8593da49a3bf"
+            }
+        },
+        "0.1.2": {
+            "id": "fivetran/klaviyo/v0.1.2",
+            "name": "klaviyo",
+            "version": "0.1.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/klaviyo_source",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d9662b45bbfa5115afadd3aea362c72c53cf86bd"
+            }
+        },
+        "0.2.0": {
+            "id": "fivetran/klaviyo/v0.2.0",
+            "name": "klaviyo",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/klaviyo_source",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.20.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6f45849940332a23407c438b8ae4bc2a79428887"
+            }
+        },
+        "0.2.1": {
+            "id": "fivetran/klaviyo/v0.2.1",
+            "name": "klaviyo",
+            "version": "0.2.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/klaviyo_source",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.20.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ff4d743a84ec68ffe01b5498a2be5105b01eef2f"
+            }
+        },
+        "0.3.0": {
+            "id": "fivetran/klaviyo/v0.3.0",
+            "name": "klaviyo",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/klaviyo_source",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.20.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b4d350b0a0682ff4c01dc23480990e1b0cc82372"
+            }
+        },
+        "0.4.0": {
+            "id": "fivetran/klaviyo/v0.4.0",
+            "name": "klaviyo",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/klaviyo_source",
+                    "version": [
+                        ">=0.4.1",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "604ae8620a83cd271452c0abc1ec9347daffa481"
+            }
+        },
+        "0.4.1": {
+            "id": "fivetran/klaviyo/v0.4.1",
+            "name": "klaviyo",
+            "version": "0.4.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/klaviyo_source",
+                    "version": [
+                        ">=0.4.1",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0f8f33378841f1bf2fefaccf566b2640807b860c"
+            }
+        },
+        "0.4.2": {
+            "id": "fivetran/klaviyo/v0.4.2",
+            "name": "klaviyo",
+            "version": "0.4.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/klaviyo_source",
+                    "version": [
+                        ">=0.4.1",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "361d202ce4ae0b01d09acca62706e5d0575bb379"
+            }
+        }
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "name": "pardot_source",
+    "namespace": "fivetran",
+    "description": "dbt models for dbt_pardot_source",
+    "latest": "0.4.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "fivetran/pardot_source/v0.1.0",
+            "name": "pardot_source",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                },
+                {
+                    "git": "https://github.com/fivetran/dbt_fivetran_utils.git",
+                    "revision": "master",
+                    "warn-unpinned": false
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.19.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b688e11df3df117de5aaa03fb8123c41c2d24b38"
+            }
+        },
+        "0.2.0": {
+            "id": "fivetran/pardot_source/v0.2.0",
+            "name": "pardot_source",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                },
+                {
+                    "git": "https://github.com/fivetran/dbt_fivetran_utils.git",
+                    "warn-unpinned": false
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "2b246a0e569ac1c8f13e4bc153d9193d45615912"
+            }
+        },
+        "0.2.1": {
+            "id": "fivetran/pardot_source/v0.2.1",
+            "name": "pardot_source",
+            "version": "0.2.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "76158acb820ec168bafa2878a274ff480cf19f66"
+            }
+        },
+        "0.3.0": {
+            "id": "fivetran/pardot_source/v0.3.0",
+            "name": "pardot_source",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.20.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d1d47c03e13150b3b330b130e9936d3982d7a912"
+            }
+        },
+        "0.4.0": {
+            "id": "fivetran/pardot_source/v0.4.0",
+            "name": "pardot_source",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "05e0c2e527ef224d1e94a3d760ee712707d00af5"
+            }
+        }
+    }
+}

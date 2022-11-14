@@ -1,0 +1,107 @@
+{
+    "name": "apple_search_ads_source",
+    "namespace": "fivetran",
+    "description": "dbt models for dbt_apple_search_ads_source",
+    "latest": "0.1.2",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "fivetran/apple_search_ads_source/v0.1.0",
+            "name": "apple_search_ads_source",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "dbt-labs/spark_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "da26ab096e30e1071c176e3f5b407ea187d73b7e"
+            }
+        },
+        "0.1.1": {
+            "id": "fivetran/apple_search_ads_source/v0.1.1",
+            "name": "apple_search_ads_source",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "dbt-labs/spark_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "299512af21ad47697bf771965cf28276b543c267"
+            }
+        },
+        "0.1.2": {
+            "id": "fivetran/apple_search_ads_source/v0.1.2",
+            "name": "apple_search_ads_source",
+            "version": "0.1.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "dbt-labs/spark_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "23c571355c4b8ffb8d8e1097613c0dcc667d0159"
+            }
+        }
+    }
+}

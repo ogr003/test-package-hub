@@ -1,0 +1,96 @@
+{
+    "name": "tap_meltano",
+    "namespace": "Matatika",
+    "description": "dbt models for dbt-tap-meltano",
+    "latest": "0.4.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "Matatika/tap_meltano/v0.1.0",
+            "name": "tap_meltano",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<=1.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e39fb90c98ba317908405754f1693547113724f2"
+            }
+        },
+        "0.1.1": {
+            "id": "Matatika/tap_meltano/v0.1.1",
+            "name": "tap_meltano",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<=1.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c049993a7c61cb9dd4eef9db4e787b01b71974cf"
+            }
+        },
+        "0.1.2": {
+            "id": "Matatika/tap_meltano/v0.1.2",
+            "name": "tap_meltano",
+            "version": "0.1.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<=1.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "53d0daae66f54c6929daeae506065e3cf002b6ae"
+            }
+        },
+        "0.3.0": {
+            "id": "Matatika/tap_meltano/v0.3.0",
+            "name": "tap_meltano",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<=1.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "41f29f326aec29e1987a385146ff4f863faafb36"
+            }
+        },
+        "0.4.0": {
+            "id": "Matatika/tap_meltano/v0.4.0",
+            "name": "tap_meltano",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3cfd8023beafe0015b820dfefa2c0c09701828d1"
+            }
+        }
+    }
+}

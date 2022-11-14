@@ -1,0 +1,134 @@
+{
+    "name": "iterable_source",
+    "namespace": "fivetran",
+    "description": "dbt models for dbt_iterable_source",
+    "latest": "0.4.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "fivetran/iterable_source/v0.1.0",
+            "name": "iterable_source",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                },
+                {
+                    "git": "https://github.com/fivetran/dbt_fivetran_utils.git",
+                    "warn-unpinned": false
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "f7ddfeb632202e4534af773a297ad4e489e5fda6"
+            }
+        },
+        "0.1.1": {
+            "id": "fivetran/iterable_source/v0.1.1",
+            "name": "iterable_source",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "783f505977078c773e7cedc587a83a27b60f0f0f"
+            }
+        },
+        "0.2.0": {
+            "id": "fivetran/iterable_source/v0.2.0",
+            "name": "iterable_source",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.20.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "da4c9160137a15e307278b8a93e4005cb4bafcd6"
+            }
+        },
+        "0.3.0": {
+            "id": "fivetran/iterable_source/v0.3.0",
+            "name": "iterable_source",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.20.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "bb402b1d3f56d6fe63ab98f9ff8c03dcd9145fec"
+            }
+        },
+        "0.4.0": {
+            "id": "fivetran/iterable_source/v0.4.0",
+            "name": "iterable_source",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8bb2339cfea907b398ff3bec30ee852d1ebaf645"
+            }
+        }
+    }
+}

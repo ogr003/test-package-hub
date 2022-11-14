@@ -1,0 +1,96 @@
+{
+    "name": "tap_googleads",
+    "namespace": "Matatika",
+    "description": "dbt models for dbt-tap-googleads",
+    "latest": "0.4.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "Matatika/tap_googleads/v0.1.0",
+            "name": "tap_googleads",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<=1.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e37a2d226146a1fe381ce69817a4e92f9e70866a"
+            }
+        },
+        "0.2.0": {
+            "id": "Matatika/tap_googleads/v0.2.0",
+            "name": "tap_googleads",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<=1.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "98fc10b9d47f3d1251f0770d04ba6dd366b43c9c"
+            }
+        },
+        "0.2.1": {
+            "id": "Matatika/tap_googleads/v0.2.1",
+            "name": "tap_googleads",
+            "version": "0.2.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<=1.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "7b6aaa9f6cccb1c90d6c3cf6097087a8e094b53a"
+            }
+        },
+        "0.3.0": {
+            "id": "Matatika/tap_googleads/v0.3.0",
+            "name": "tap_googleads",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<=1.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "cc93d6306c99517282d5842e61b9fed03d958715"
+            }
+        },
+        "0.4.0": {
+            "id": "Matatika/tap_googleads/v0.4.0",
+            "name": "tap_googleads",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "f84a7f3c2181d66ab872352e62cdc2cf531a887a"
+            }
+        }
+    }
+}

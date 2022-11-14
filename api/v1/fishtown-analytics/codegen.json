@@ -1,0 +1,201 @@
+{
+    "name": "codegen",
+    "namespace": "fishtown-analytics",
+    "description": "dbt models for dbt-codegen",
+    "latest": "0.3.2",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "redirectnamespace": "dbt-labs",
+    "versions": {
+        "0.0.1": {
+            "id": "fishtown-analytics/codegen/0.0.1",
+            "name": "codegen",
+            "version": "0.0.1",
+            "published_at": "2019-07-11T00:17:20.119034+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.1.23",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "256a4f914faf12daef6d7c457eb0f1ca4a4520e0"
+            }
+        },
+        "0.0.2": {
+            "id": "fishtown-analytics/codegen/0.0.2",
+            "name": "codegen",
+            "version": "0.0.2",
+            "published_at": "2019-07-11T22:00:03.950455+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.1.25",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "99f1a4c212931995286e9044941a711115ddce89"
+            }
+        },
+        "0.1.0": {
+            "id": "fishtown-analytics/codegen/0.1.0",
+            "name": "codegen",
+            "version": "0.1.0",
+            "published_at": "2020-06-16T14:03:19.640267+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.2.4",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3c19369d9ac6f080d8373655660be0191988b01f"
+            }
+        },
+        "0.2.0": {
+            "id": "fishtown-analytics/codegen/0.2.0",
+            "name": "codegen",
+            "version": "0.2.0",
+            "published_at": "2020-07-31T19:01:52.747001+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.2.4",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c382a29a8dd5c71aa3484f42a4d392ffe3dc7b3c"
+            }
+        },
+        "0.3.0": {
+            "id": "fishtown-analytics/codegen/0.3.0",
+            "name": "codegen",
+            "version": "0.3.0",
+            "published_at": "2020-09-14T17:01:15.196480+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.1",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "a01c1f6ae4be50a6ebe1c32e4c22eb96a8f82da1"
+            }
+        },
+        "0.3.1": {
+            "id": "fishtown-analytics/codegen/0.3.1",
+            "name": "codegen",
+            "version": "0.3.1",
+            "published_at": "2020-09-17T14:02:44.168874+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.2",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "27c29576f40a07e9c2b59e79955a923de72ecac2"
+            }
+        },
+        "0.3.2": {
+            "id": "fishtown-analytics/codegen/0.3.2",
+            "name": "codegen",
+            "version": "0.3.2",
+            "published_at": "2021-05-20T14:04:03.189545+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.2",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "a325e36e9211f068c2f392131c7da43568b52bb1"
+            }
+        },
+        "0.0.3": {
+            "id": "fishtown-analytics/codegen/v0.0.3",
+            "name": "codegen",
+            "version": "0.0.3",
+            "published_at": "2019-09-04T15:00:02.774331+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.1.25",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0ff1349f47e85bb2a3e88e07dc1eb06038d96d82"
+            }
+        },
+        "0.0.4": {
+            "id": "fishtown-analytics/codegen/v0.0.4",
+            "name": "codegen",
+            "version": "0.0.4",
+            "published_at": "2019-10-03T16:00:02.619132+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.1.25",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "9229c0940f8c070c8e68439c901623c1342848d1"
+            }
+        }
+    }
+}

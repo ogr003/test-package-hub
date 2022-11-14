@@ -1,0 +1,81 @@
+{
+    "name": "athena_utils",
+    "namespace": "lalalilo",
+    "description": "dbt models for athena-utils",
+    "latest": "0.2.1",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "lalalilo/athena_utils/0.1.0",
+            "name": "athena_utils",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "cc1d22d3d1ff4955a74e6710b212581a68629f5b"
+            }
+        },
+        "0.1.1": {
+            "id": "lalalilo/athena_utils/0.1.1",
+            "name": "athena_utils",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "06e7ada4436215aff43a85c9ec7d7da2c38356ee"
+            }
+        },
+        "0.1.2": {
+            "id": "lalalilo/athena_utils/0.1.2",
+            "name": "athena_utils",
+            "version": "0.1.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8ba0b0d03417856bd581a3825531d9a2ca34a2ab"
+            }
+        },
+        "0.2.0": {
+            "id": "lalalilo/athena_utils/0.2.0",
+            "name": "athena_utils",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "413ebf7c59c7437c34c0d4d859c24cf580565f28"
+            }
+        },
+        "0.2.1": {
+            "id": "lalalilo/athena_utils/0.2.1",
+            "name": "athena_utils",
+            "version": "0.2.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8250132703fd0018487bb16573992dca28bd91cc"
+            }
+        }
+    }
+}

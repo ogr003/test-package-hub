@@ -1,0 +1,36 @@
+{
+    "name": "ab2ft_stripe",
+    "namespace": "splitgraph",
+    "description": "dbt models for ab2ft_stripe",
+    "latest": "0.1.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "splitgraph/ab2ft_stripe/0.1.0",
+            "name": "ab2ft_stripe",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/stripe",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "923d9c12428ab2914636c2cd33cf254cd146042e"
+            }
+        }
+    }
+}

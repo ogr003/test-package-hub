@@ -1,0 +1,532 @@
+{
+    "name": "snowplow",
+    "namespace": "fishtown-analytics",
+    "description": "dbt models for snowplow",
+    "latest": "0.12.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "redirectnamespace": "dbt-labs",
+    "versions": {
+        "0.1.0": {
+            "id": "fishtown-analytics/snowplow/0.1.0",
+            "name": "snowplow",
+            "version": "0.1.0",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6e05f6437d4c5b0827cdae8e8543ac9164be8858"
+            }
+        },
+        "0.10.0": {
+            "id": "fishtown-analytics/snowplow/0.10.0",
+            "name": "snowplow",
+            "version": "0.10.0",
+            "published_at": "2020-06-12T21:04:05.129515+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.2.5"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3de4580b05ff482b6262c4bf732cb4eb5fa56114"
+            }
+        },
+        "0.11.0": {
+            "id": "fishtown-analytics/snowplow/0.11.0",
+            "name": "snowplow",
+            "version": "0.11.0",
+            "published_at": "2020-07-31T19:01:52.747001+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "55970a75e1f9c334199751a50fcd56beee1894c3"
+            }
+        },
+        "0.12.0": {
+            "id": "fishtown-analytics/snowplow/0.12.0",
+            "name": "snowplow",
+            "version": "0.12.0",
+            "published_at": "2020-09-14T15:03:41.647596+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ea06458296624100e231ad8e556d3c5da64b54a3"
+            }
+        },
+        "0.2.0": {
+            "id": "fishtown-analytics/snowplow/0.2.0",
+            "name": "snowplow",
+            "version": "0.2.0",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "924cab26d339512538e9e97ed3cf815f45e0f0b0"
+            }
+        },
+        "0.2.1": {
+            "id": "fishtown-analytics/snowplow/0.2.1",
+            "name": "snowplow",
+            "version": "0.2.1",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d00739381b319cd4dced2498eae6d922deb4db95"
+            }
+        },
+        "0.2.2": {
+            "id": "fishtown-analytics/snowplow/0.2.2",
+            "name": "snowplow",
+            "version": "0.2.2",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "945c1f784b344aa88cdf91c2acf057d7728dec7b"
+            }
+        },
+        "0.2.3": {
+            "id": "fishtown-analytics/snowplow/0.2.3",
+            "name": "snowplow",
+            "version": "0.2.3",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "fb3697c0cd4154c4201271d1b88f1811493909e9"
+            }
+        },
+        "0.3.0": {
+            "id": "fishtown-analytics/snowplow/0.3.0",
+            "name": "snowplow",
+            "version": "0.3.0",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ef3d0b0d6534faedffef7f1547220ad731d5cbba"
+            }
+        },
+        "0.3.1": {
+            "id": "fishtown-analytics/snowplow/0.3.1",
+            "name": "snowplow",
+            "version": "0.3.1",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "dfc750794d5300d226ac68cd4a6be1f04c824e8c"
+            }
+        },
+        "0.3.2": {
+            "id": "fishtown-analytics/snowplow/0.3.2",
+            "name": "snowplow",
+            "version": "0.3.2",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ec5b237e917d49cfd2d27a408f7fc0c6346ec5f8"
+            }
+        },
+        "0.3.3": {
+            "id": "fishtown-analytics/snowplow/0.3.3",
+            "name": "snowplow",
+            "version": "0.3.3",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0d1670ef53a8683fefb69b218e1e3883b27bfcff"
+            }
+        },
+        "0.3.4": {
+            "id": "fishtown-analytics/snowplow/0.3.4",
+            "name": "snowplow",
+            "version": "0.3.4",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b62624dfb7b623ada7e1fb00b43c1fafe2871210"
+            }
+        },
+        "0.3.5": {
+            "id": "fishtown-analytics/snowplow/0.3.5",
+            "name": "snowplow",
+            "version": "0.3.5",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "2e5bce4375b5923b25ad49d5757d201f47abe943"
+            }
+        },
+        "0.3.6": {
+            "id": "fishtown-analytics/snowplow/0.3.6",
+            "name": "snowplow",
+            "version": "0.3.6",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "aa43ff44a70e3ae7be6e62ecb9d3f6563de10f52"
+            }
+        },
+        "0.3.7": {
+            "id": "fishtown-analytics/snowplow/0.3.7",
+            "name": "snowplow",
+            "version": "0.3.7",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "25bc8b0ea359bde442d34d76ca19b17984ec6f46"
+            }
+        },
+        "0.3.8": {
+            "id": "fishtown-analytics/snowplow/0.3.8",
+            "name": "snowplow",
+            "version": "0.3.8",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b0ded339d6a0417188bc6ddcdc32a2b43de90a54"
+            }
+        },
+        "0.3.9": {
+            "id": "fishtown-analytics/snowplow/0.3.9",
+            "name": "snowplow",
+            "version": "0.3.9",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c4ed417be161c21fd4759acc84cb1cd85ef9c9b9"
+            }
+        },
+        "0.4.0": {
+            "id": "fishtown-analytics/snowplow/0.4.0",
+            "name": "snowplow",
+            "version": "0.4.0",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "753d40bf816568be9d09aee74e412e007619cd0e"
+            }
+        },
+        "0.4.1": {
+            "id": "fishtown-analytics/snowplow/0.4.1",
+            "name": "snowplow",
+            "version": "0.4.1",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8d3b2cd75d24c33f9f89f5aac001baf3d6d0ad38"
+            }
+        },
+        "0.5.0": {
+            "id": "fishtown-analytics/snowplow/0.5.0",
+            "name": "snowplow",
+            "version": "0.5.0",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "36de4741b4267bc25f5fcffec159f0d2fe6c671c"
+            }
+        },
+        "0.5.1": {
+            "id": "fishtown-analytics/snowplow/0.5.1",
+            "name": "snowplow",
+            "version": "0.5.1",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "7b17e2ad3f814f3b2b1d986f8ac60131a6842066"
+            }
+        },
+        "0.5.2": {
+            "id": "fishtown-analytics/snowplow/0.5.2",
+            "name": "snowplow",
+            "version": "0.5.2",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "19a024bbc6239312f08fb282ac45d79e573d8366"
+            }
+        },
+        "0.5.3": {
+            "id": "fishtown-analytics/snowplow/0.5.3",
+            "name": "snowplow",
+            "version": "0.5.3",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ba792b554c29d3e7d93d22046ee70febb31ca9fe"
+            }
+        },
+        "0.6.0": {
+            "id": "fishtown-analytics/snowplow/0.6.0",
+            "name": "snowplow",
+            "version": "0.6.0",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3dea6ce5cd15bdaf3468f5ec3623dc53c363899d"
+            }
+        },
+        "0.6.1": {
+            "id": "fishtown-analytics/snowplow/0.6.1",
+            "name": "snowplow",
+            "version": "0.6.1",
+            "published_at": "2018-12-03T17:56:02.059739+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "018e5197dcd2179cc2be14929b056b5ac3b1ed11"
+            }
+        },
+        "0.6.2": {
+            "id": "fishtown-analytics/snowplow/0.6.2",
+            "name": "snowplow",
+            "version": "0.6.2",
+            "published_at": "2019-01-21T18:00:03.683927+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b8ab6ccef3e9c4d3d977f307e062d66bc1f8c9ee"
+            }
+        },
+        "0.6.3": {
+            "id": "fishtown-analytics/snowplow/0.6.3",
+            "name": "snowplow",
+            "version": "0.6.3",
+            "published_at": "2019-02-28T17:00:03.095607+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b8efa092fb614eacb2750d90cc28f641a947fd02"
+            }
+        },
+        "0.7.0": {
+            "id": "fishtown-analytics/snowplow/0.7.0",
+            "name": "snowplow",
+            "version": "0.7.0",
+            "published_at": "2019-03-18T15:00:02.827841+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ba690df40b12c1de55485d78eb34ab2aefbe26b5"
+            }
+        },
+        "0.7.1": {
+            "id": "fishtown-analytics/snowplow/0.7.1",
+            "name": "snowplow",
+            "version": "0.7.1",
+            "published_at": "2019-03-22T22:00:02.735534+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1a7075f98cb6812dc0459c284224866e9211631a"
+            }
+        },
+        "0.7.2": {
+            "id": "fishtown-analytics/snowplow/0.7.2",
+            "name": "snowplow",
+            "version": "0.7.2",
+            "published_at": "2019-04-05T16:00:04.067559+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "066d2dc4f2245b679516ff040432f01e92179f6c"
+            }
+        },
+        "0.7.3": {
+            "id": "fishtown-analytics/snowplow/0.7.3",
+            "name": "snowplow",
+            "version": "0.7.3",
+            "published_at": "2019-05-28T15:00:06.390282+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0219e899f28d527a7a3c21dece16b24d394d018c"
+            }
+        },
+        "0.7.4": {
+            "id": "fishtown-analytics/snowplow/0.7.4",
+            "name": "snowplow",
+            "version": "0.7.4",
+            "published_at": "2019-06-25T14:00:05.335950+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "243ea6273cd6931a809c1fc364d04cfe1310216e"
+            }
+        },
+        "0.7.5": {
+            "id": "fishtown-analytics/snowplow/0.7.5",
+            "name": "snowplow",
+            "version": "0.7.5",
+            "published_at": "2019-07-23T14:00:04.423546+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "92d031f2d748976027ebaea50c95802676e22c4b"
+            }
+        },
+        "0.8.0": {
+            "id": "fishtown-analytics/snowplow/0.8.0",
+            "name": "snowplow",
+            "version": "0.8.0",
+            "published_at": "2019-10-21T16:00:03.458039+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "acaa6962872d38a3f3d40b4c5bb1c583cb8458b2"
+            }
+        },
+        "0.8.1": {
+            "id": "fishtown-analytics/snowplow/0.8.1",
+            "name": "snowplow",
+            "version": "0.8.1",
+            "published_at": "2019-11-17T20:00:03.638514+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "cb5c243685844088497798163cf81a7d58ab5058"
+            }
+        },
+        "0.8.2": {
+            "id": "fishtown-analytics/snowplow/0.8.2",
+            "name": "snowplow",
+            "version": "0.8.2",
+            "published_at": "2020-03-20T21:00:06.198734+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6c785bdb43220aae2a8c4c3dd13d06c40a43751d"
+            }
+        },
+        "0.9.0": {
+            "id": "fishtown-analytics/snowplow/0.9.0",
+            "name": "snowplow",
+            "version": "0.9.0",
+            "published_at": "2020-04-21T19:00:05.629821+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.2.5"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d647f3daa3e82b2fbe2c1d1f208d1e6662315f45"
+            }
+        }
+    }
+}

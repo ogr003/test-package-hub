@@ -1,0 +1,528 @@
+{
+    "name": "dbtvault",
+    "namespace": "Datavault-UK",
+    "description": "dbt models for dbtvault",
+    "latest": "0.9.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.2.1-pre": {
+            "id": "Datavault-UK/dbtvault/v0.2.1-pre",
+            "name": "dbtvault",
+            "version": "0.2.1-pre",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "72f5a8f748040dd3125940580036e920ee52c868"
+            }
+        },
+        "0.2.2-pre": {
+            "id": "Datavault-UK/dbtvault/v0.2.2-pre",
+            "name": "dbtvault",
+            "version": "0.2.2-pre",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "4ddfeb0551256b613859917b6a66e9b6f53ac1da"
+            }
+        },
+        "0.2.3-pre": {
+            "id": "Datavault-UK/dbtvault/v0.2.3-pre",
+            "name": "dbtvault",
+            "version": "0.2.3-pre",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "4d7392280be0491058d583e97068fd97cd382ddd"
+            }
+        },
+        "0.2.4-pre": {
+            "id": "Datavault-UK/dbtvault/v0.2.4-pre",
+            "name": "dbtvault",
+            "version": "0.2.4-pre",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5d87147962ec84ebea5a3e2c6dc03b8aece0924b"
+            }
+        },
+        "0.3.1-pre": {
+            "id": "Datavault-UK/dbtvault/v0.3.1-pre",
+            "name": "dbtvault",
+            "version": "0.3.1-pre",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b69c0df51963345259151af367f9d4c7678555a6"
+            }
+        },
+        "0.3.2-pre": {
+            "id": "Datavault-UK/dbtvault/v0.3.2-pre",
+            "name": "dbtvault",
+            "version": "0.3.2-pre",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1f7b52954be38c19c12be74805917c9cb90a9749"
+            }
+        },
+        "0.3.3-pre": {
+            "id": "Datavault-UK/dbtvault/v0.3.3-pre",
+            "name": "dbtvault",
+            "version": "0.3.3-pre",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "31b76221fab74e39ba2bf4e6f261ce7e4babf8a0"
+            }
+        },
+        "0.4.1": {
+            "id": "Datavault-UK/dbtvault/v0.4.1",
+            "name": "dbtvault",
+            "version": "0.4.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.14.0",
+                "<=0.15.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "bfab9c809b03b6bd335c4a8c6768eb31aae9d300"
+            }
+        },
+        "0.6.1": {
+            "id": "Datavault-UK/dbtvault/v0.6.1",
+            "name": "dbtvault",
+            "version": "0.6.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.14.0",
+                "<0.18.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5065f6f78da923ebec73f0996c61b537fda4dfdd"
+            }
+        },
+        "0.6.2": {
+            "id": "Datavault-UK/dbtvault/v0.6.2",
+            "name": "dbtvault",
+            "version": "0.6.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.14.0",
+                "<0.18.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "9fd7a6776d9efc29feec6b7bcc8ad69f2c007609"
+            }
+        },
+        "0.7.0": {
+            "id": "Datavault-UK/dbtvault/v0.7.0",
+            "name": "dbtvault",
+            "version": "0.7.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.19.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "95dd09562fa7ae5e43355d76d1cc84b6f29ac72c"
+            }
+        },
+        "0.7.1": {
+            "id": "Datavault-UK/dbtvault/v0.7.1",
+            "name": "dbtvault",
+            "version": "0.7.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": "0.6.2"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.19.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "2bbfcd0eb41c4042f0449701859a4e3f91a9982a"
+            }
+        },
+        "0.7.2": {
+            "id": "Datavault-UK/dbtvault/v0.7.2",
+            "name": "dbtvault",
+            "version": "0.7.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": "0.6.2"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.19.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "68227c87f020fc9b508092b6964f26b03dd9a8b3"
+            }
+        },
+        "0.7.3": {
+            "id": "Datavault-UK/dbtvault/v0.7.3",
+            "name": "dbtvault",
+            "version": "0.7.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": "0.6.4"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3a0790b6d5809bc683f1199cbb8c9a5f635ad877"
+            }
+        },
+        "0.7.4": {
+            "id": "Datavault-UK/dbtvault/v0.7.4",
+            "name": "dbtvault",
+            "version": "0.7.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": "0.6.4"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3d1eb71605098b02760057f09f821e5aab9717f3"
+            }
+        },
+        "0.7.5": {
+            "id": "Datavault-UK/dbtvault/v0.7.5",
+            "name": "dbtvault",
+            "version": "0.7.5",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": "0.6.4"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c3d788b0e3720c37089907bb69d3e8581473cf1f"
+            }
+        },
+        "0.7.6-b1": {
+            "id": "Datavault-UK/dbtvault/v0.7.6-b1",
+            "name": "dbtvault",
+            "version": "0.7.6-b1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": "0.6.4"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1aa9230e8675c48abdf2e210f7574109a31c3792"
+            }
+        },
+        "0.7.6": {
+            "id": "Datavault-UK/dbtvault/v0.7.6",
+            "name": "dbtvault",
+            "version": "0.7.6",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": "0.7.0"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.21.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5683b09bee662199ccdce5577a54429ad3f0890d"
+            }
+        },
+        "0.7.7": {
+            "id": "Datavault-UK/dbtvault/v0.7.7",
+            "name": "dbtvault",
+            "version": "0.7.7",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": "0.7.0"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.21.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "a5aabf854d27184e30ce5f0a883d68b0c1baaa4b"
+            }
+        },
+        "0.7.8": {
+            "id": "Datavault-UK/dbtvault/v0.7.8",
+            "name": "dbtvault",
+            "version": "0.7.8",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.7.0",
+                        "<0.8.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<0.22.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "300924bc7927441aa23d0c627ad82854d2675c30"
+            }
+        },
+        "0.7.9": {
+            "id": "Datavault-UK/dbtvault/v0.7.9",
+            "name": "dbtvault",
+            "version": "0.7.9",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.8.0",
+                        "<0.9.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "4b7d292b3c493b60efd2e54586256db32e3b2ffc"
+            }
+        },
+        "0.8.0": {
+            "id": "Datavault-UK/dbtvault/v0.8.0",
+            "name": "dbtvault",
+            "version": "0.8.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.8.0",
+                        "<0.9.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3d9c4bee7520e2c5bda171296379e209e4a48371"
+            }
+        },
+        "0.8.1": {
+            "id": "Datavault-UK/dbtvault/v0.8.1",
+            "name": "dbtvault",
+            "version": "0.8.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.8.0",
+                        "<0.9.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "a9b0380fd06651843e180d51d4da64d6bbce97b0"
+            }
+        },
+        "0.8.2": {
+            "id": "Datavault-UK/dbtvault/v0.8.2",
+            "name": "dbtvault",
+            "version": "0.8.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.8.0",
+                        "<0.9.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "995cb495b17511d016184aabb25c4c42d21e98c4"
+            }
+        },
+        "0.8.3": {
+            "id": "Datavault-UK/dbtvault/v0.8.3",
+            "name": "dbtvault",
+            "version": "0.8.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.8.0",
+                        "<0.9.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8781be17687c16be77c4466115b6593d3f0c04d4"
+            }
+        },
+        "0.9.0": {
+            "id": "Datavault-UK/dbtvault/v0.9.0",
+            "name": "dbtvault",
+            "version": "0.9.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.8.0",
+                        "<0.9.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "7ef9a38156c9032f294ee4732935c9d4f3be6944"
+            }
+        }
+    }
+}

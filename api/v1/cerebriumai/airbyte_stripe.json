@@ -1,0 +1,42 @@
+{
+    "name": "airbyte_stripe",
+    "namespace": "cerebriumai",
+    "description": "dbt models for airbyte_dbt_stripe",
+    "latest": "0.1.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "cerebriumai/airbyte_stripe/0.1.0",
+            "name": "airbyte_stripe",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                },
+                {
+                    "package": "dbt-labs/spark_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b066eb9ff9eaf3d62be0b4726a8e76f206d682c8"
+            }
+        }
+    }
+}

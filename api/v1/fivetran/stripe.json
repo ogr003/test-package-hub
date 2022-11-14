@@ -1,0 +1,375 @@
+{
+    "name": "stripe",
+    "namespace": "fivetran",
+    "description": "dbt models for dbt_stripe",
+    "latest": "0.7.3",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "fivetran/stripe/v0.1.0",
+            "name": "stripe",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/stripe_source",
+                    "version": "0.1.0"
+                }
+            ],
+            "require_dbt_version": ">=0.17.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "accef9b0c71738f9c8747f17d0ad4e0326fe5af4"
+            }
+        },
+        "0.2.0": {
+            "id": "fivetran/stripe/v0.2.0",
+            "name": "stripe",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/stripe_source",
+                    "version": "0.2.0"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.19.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "a3639489b357a13e23054aff41fdd32aa4a187f9"
+            }
+        },
+        "0.2.1": {
+            "id": "fivetran/stripe/v0.2.1",
+            "name": "stripe",
+            "version": "0.2.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/stripe_source",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c8ac79be89196724406800747784f49e84cfdafc"
+            }
+        },
+        "0.3.0": {
+            "id": "fivetran/stripe/v0.3.0",
+            "name": "stripe",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/stripe_source",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c3900c2846a05919bffae04b08d14bd4a194997d"
+            }
+        },
+        "0.4.0": {
+            "id": "fivetran/stripe/v0.4.0",
+            "name": "stripe",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/stripe_source",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8507d84b96e3392d234294b4a4e6bdd6fd7313d1"
+            }
+        },
+        "0.4.1": {
+            "id": "fivetran/stripe/v0.4.1",
+            "name": "stripe",
+            "version": "0.4.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/stripe_source",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "144e878fc8e965209dcfcdb7dfaf4b1004bea789"
+            }
+        },
+        "0.4.2": {
+            "id": "fivetran/stripe/v0.4.2",
+            "name": "stripe",
+            "version": "0.4.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/stripe_source",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "cd7f621f00de8cf23964dc8b1b70e9c2eed20f07"
+            }
+        },
+        "0.5.0": {
+            "id": "fivetran/stripe/v0.5.0",
+            "name": "stripe",
+            "version": "0.5.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/stripe_source",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "158031661021705a6757af6296ee2d681f9da7ac"
+            }
+        },
+        "0.5.1": {
+            "id": "fivetran/stripe/v0.5.1",
+            "name": "stripe",
+            "version": "0.5.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/stripe_source",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "75b69bc6ba3c17f6150e8cf450ce53f1e72fc306"
+            }
+        },
+        "0.6.0": {
+            "id": "fivetran/stripe/v0.6.0",
+            "name": "stripe",
+            "version": "0.6.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/stripe_source",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "651f971e375c8633a0ce0e073bf0b7745965d474"
+            }
+        },
+        "0.6.1": {
+            "id": "fivetran/stripe/v0.6.1",
+            "name": "stripe",
+            "version": "0.6.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/stripe_source",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e1887ff9359a49ccce73dd89eef7626841d28ba9"
+            }
+        },
+        "0.7.0": {
+            "id": "fivetran/stripe/v0.7.0",
+            "name": "stripe",
+            "version": "0.7.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/stripe_source",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "289b04cc431c02afe708f84c167084ff80111f57"
+            }
+        },
+        "0.7.1": {
+            "id": "fivetran/stripe/v0.7.1",
+            "name": "stripe",
+            "version": "0.7.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/stripe_source",
+                    "version": [
+                        ">=0.7.0",
+                        "<0.8.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "2b12aa191638befe169a9d75dda062f5212ed27e"
+            }
+        },
+        "0.7.2": {
+            "id": "fivetran/stripe/v0.7.2",
+            "name": "stripe",
+            "version": "0.7.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/stripe_source",
+                    "version": [
+                        ">=0.7.0",
+                        "<0.8.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "17c74446db1ba76fb3d20e7a3d131b25bda98f6c"
+            }
+        },
+        "0.7.3": {
+            "id": "fivetran/stripe/v0.7.3",
+            "name": "stripe",
+            "version": "0.7.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/stripe_source",
+                    "version": [
+                        ">=0.7.0",
+                        "<0.8.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "567a30f2b2850913d0233e73cd9eb084a67bea09"
+            }
+        }
+    }
+}

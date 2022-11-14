@@ -1,0 +1,55 @@
+{
+    "name": "taboola",
+    "namespace": "fishtown-analytics",
+    "description": "dbt models for taboola",
+    "latest": "0.1.2",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "fishtown-analytics/taboola/0.1.0",
+            "name": "taboola",
+            "version": "0.1.0",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c7ae1710f6cefd0a96a9f7618e2b2e917515e28b"
+            }
+        },
+        "0.1.1": {
+            "id": "fishtown-analytics/taboola/0.1.1",
+            "name": "taboola",
+            "version": "0.1.1",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "dcafcedc68f07d62bad38661a2f65e9edc477e0e"
+            }
+        },
+        "0.1.2": {
+            "id": "fishtown-analytics/taboola/0.1.2",
+            "name": "taboola",
+            "version": "0.1.2",
+            "published_at": "2019-01-10T17:00:03.784684+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.6"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "85950c5f9c3c69c3bc28090f4ce6dfac87891815"
+            }
+        }
+    }
+}

@@ -1,0 +1,1108 @@
+{
+    "name": "dbt_expectations",
+    "namespace": "calogica",
+    "description": "dbt models for dbt-expectations",
+    "latest": "0.7.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.2": {
+            "id": "calogica/dbt_expectations/0.1.2",
+            "name": "dbt_expectations",
+            "version": "0.1.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "git": "https://github.com/calogica/dbt-date.git",
+                    "revision": "0.2.1"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.19.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "25fa599467b1f3366331f52d7dfce4fe3f5df2ad"
+            }
+        },
+        "0.1.3": {
+            "id": "calogica/dbt_expectations/0.1.3",
+            "name": "dbt_expectations",
+            "version": "0.1.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "git": "https://github.com/calogica/dbt-date.git",
+                    "revision": "0.2.1"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.19.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e0a696d02bb1806478fa6a2635dda7b88effa7d6"
+            }
+        },
+        "0.1.4": {
+            "id": "calogica/dbt_expectations/0.1.4",
+            "name": "dbt_expectations",
+            "version": "0.1.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "git": "https://github.com/calogica/dbt-date.git",
+                    "revision": "0.2.1"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.19.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "dfe460f501ec1bdd967be234eaceeab2f45ca87a"
+            }
+        },
+        "0.2.0": {
+            "id": "calogica/dbt_expectations/0.2.0",
+            "name": "dbt_expectations",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "git": "https://github.com/calogica/dbt-date.git",
+                    "revision": "0.2.1"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.19.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "19f421934f66e3f18054ac08b15f6bac32cc6a43"
+            }
+        },
+        "0.2.1": {
+            "id": "calogica/dbt_expectations/0.2.1",
+            "name": "dbt_expectations",
+            "version": "0.2.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fishtown-analytics/spark_utils",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.19.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "299741457ea5d24d198b9bb179f69fea4df343ba"
+            }
+        },
+        "0.2.2": {
+            "id": "calogica/dbt_expectations/0.2.2",
+            "name": "dbt_expectations",
+            "version": "0.2.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fishtown-analytics/spark_utils",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b85fc6bcbb06f117fc4977b48d850c616a934c91"
+            }
+        },
+        "0.2.3": {
+            "id": "calogica/dbt_expectations/0.2.3",
+            "name": "dbt_expectations",
+            "version": "0.2.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fishtown-analytics/spark_utils",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b41be1fe443c43b25a6d12b39a41b026db18fc57"
+            }
+        },
+        "0.2.4": {
+            "id": "calogica/dbt_expectations/0.2.4",
+            "name": "dbt_expectations",
+            "version": "0.2.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fishtown-analytics/spark_utils",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8a5af95992aa53e62a83864a2db0e10c740acae7"
+            }
+        },
+        "0.2.5": {
+            "id": "calogica/dbt_expectations/0.2.5",
+            "name": "dbt_expectations",
+            "version": "0.2.5",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fishtown-analytics/spark_utils",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "90cb9fa44973a207039b10dd5a2691fa06af0783"
+            }
+        },
+        "0.2.6": {
+            "id": "calogica/dbt_expectations/0.2.6",
+            "name": "dbt_expectations",
+            "version": "0.2.6",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fishtown-analytics/spark_utils",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "906d924122c2f8d00760ca0c0c736bc410626f12"
+            }
+        },
+        "0.2.7": {
+            "id": "calogica/dbt_expectations/0.2.7",
+            "name": "dbt_expectations",
+            "version": "0.2.7",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fishtown-analytics/spark_utils",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "89b05146e785f1157df1c273a214d6ae617729c0"
+            }
+        },
+        "0.2.8": {
+            "id": "calogica/dbt_expectations/0.2.8",
+            "name": "dbt_expectations",
+            "version": "0.2.8",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fishtown-analytics/spark_utils",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "765671b2b240a3ad196127bf24776cfd1cfd5d9e"
+            }
+        },
+        "0.2.9": {
+            "id": "calogica/dbt_expectations/0.2.9",
+            "name": "dbt_expectations",
+            "version": "0.2.9",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fishtown-analytics/spark_utils",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "f3ec7781d263e7b2e236a53fcdd5015590374fa9"
+            }
+        },
+        "0.3.0": {
+            "id": "calogica/dbt_expectations/0.3.0",
+            "name": "dbt_expectations",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fishtown-analytics/spark_utils",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "7d3ea55ca2505ff1433bcca4e1f6fddaaf4ece87"
+            }
+        },
+        "0.3.1": {
+            "id": "calogica/dbt_expectations/0.3.1",
+            "name": "dbt_expectations",
+            "version": "0.3.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fishtown-analytics/spark_utils",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e5442ac2df1ffa61a10d801b6f8d1aaf67fe7a8e"
+            }
+        },
+        "0.3.2": {
+            "id": "calogica/dbt_expectations/0.3.2",
+            "name": "dbt_expectations",
+            "version": "0.3.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fishtown-analytics/spark_utils",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5d5a953cd6fd13718370b62ce3c4edf53d4502f2"
+            }
+        },
+        "0.3.3": {
+            "id": "calogica/dbt_expectations/0.3.3",
+            "name": "dbt_expectations",
+            "version": "0.3.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "817dd9576a183e2c2ebaf5ab3506aa6363d0c07a"
+            }
+        },
+        "0.3.4": {
+            "id": "calogica/dbt_expectations/0.3.4",
+            "name": "dbt_expectations",
+            "version": "0.3.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b5a375e989dd82c37b3c41b42261424be452ea1d"
+            }
+        },
+        "0.3.5": {
+            "id": "calogica/dbt_expectations/0.3.5",
+            "name": "dbt_expectations",
+            "version": "0.3.5",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0f9cac7590e2d3937d2069980a4412bc2865d2e8"
+            }
+        },
+        "0.3.6": {
+            "id": "calogica/dbt_expectations/0.3.6",
+            "name": "dbt_expectations",
+            "version": "0.3.6",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "2a6ca3c4b9e3af4293a82f2223907018611c859a"
+            }
+        },
+        "0.3.7": {
+            "id": "calogica/dbt_expectations/0.3.7",
+            "name": "dbt_expectations",
+            "version": "0.3.7",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "030096060d269c7bab89768cfbd8cfe039153447"
+            }
+        },
+        "0.4.0": {
+            "id": "calogica/dbt_expectations/0.4.0",
+            "name": "dbt_expectations",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<0.21.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c14d7a8c49a00fb579370a1dee3cb1959c607b82"
+            }
+        },
+        "0.4.1": {
+            "id": "calogica/dbt_expectations/0.4.1",
+            "name": "dbt_expectations",
+            "version": "0.4.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<0.21.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "befff76b3cc720be411d7774be45882cae71d00a"
+            }
+        },
+        "0.4.2": {
+            "id": "calogica/dbt_expectations/0.4.2",
+            "name": "dbt_expectations",
+            "version": "0.4.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<0.21.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "841ecbc22b3de0d6a0856962664133117ec82c3a"
+            }
+        },
+        "0.4.3": {
+            "id": "calogica/dbt_expectations/0.4.3",
+            "name": "dbt_expectations",
+            "version": "0.4.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<0.22.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e4f529180894fdb110119b43e4442c2411adfc28"
+            }
+        },
+        "0.4.4": {
+            "id": "calogica/dbt_expectations/0.4.4",
+            "name": "dbt_expectations",
+            "version": "0.4.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<0.22.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "542e29e510e1674f54521f9067847be64f5a8303"
+            }
+        },
+        "0.4.5": {
+            "id": "calogica/dbt_expectations/0.4.5",
+            "name": "dbt_expectations",
+            "version": "0.4.5",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<0.22.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "19ccea8111d8b7fba6b3301391297c0cca8b2806"
+            }
+        },
+        "0.4.6": {
+            "id": "calogica/dbt_expectations/0.4.6",
+            "name": "dbt_expectations",
+            "version": "0.4.6",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<0.22.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c59cf9adf4bd6447397c5aa7c4a207a9f4074e90"
+            }
+        },
+        "0.4.7": {
+            "id": "calogica/dbt_expectations/0.4.7",
+            "name": "dbt_expectations",
+            "version": "0.4.7",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<1.1.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "55cb3f03e8864d60c56b6df60edc6146d6aafbab"
+            }
+        },
+        "0.5.0": {
+            "id": "calogica/dbt_expectations/0.5.0",
+            "name": "dbt_expectations",
+            "version": "0.5.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "466628e1a7c99ca451a0ffbf5da730122a82cf79"
+            }
+        },
+        "0.5.1": {
+            "id": "calogica/dbt_expectations/0.5.1",
+            "name": "dbt_expectations",
+            "version": "0.5.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b2904adead3fd5ee05f9abe6039ded1d75e0152b"
+            }
+        },
+        "0.5.2": {
+            "id": "calogica/dbt_expectations/0.5.2",
+            "name": "dbt_expectations",
+            "version": "0.5.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ba4a3b93deb1c0aac69cdd2c8ebcac15958ed4bf"
+            }
+        },
+        "0.5.3": {
+            "id": "calogica/dbt_expectations/0.5.3",
+            "name": "dbt_expectations",
+            "version": "0.5.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ef208fdbd3aae3ff289b6f50f6365f1b0575cf8b"
+            }
+        },
+        "0.5.4": {
+            "id": "calogica/dbt_expectations/0.5.4",
+            "name": "dbt_expectations",
+            "version": "0.5.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "cdf7ad3669f890d85553109f677165568813e1d8"
+            }
+        },
+        "0.5.5": {
+            "id": "calogica/dbt_expectations/0.5.5",
+            "name": "dbt_expectations",
+            "version": "0.5.5",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "06d7502cf06cb95c5e6ce742c80f47417092169d"
+            }
+        },
+        "0.5.6": {
+            "id": "calogica/dbt_expectations/0.5.6",
+            "name": "dbt_expectations",
+            "version": "0.5.6",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "4e249e703db6eff51caec58ea44bef1c251bdbb2"
+            }
+        },
+        "0.5.7": {
+            "id": "calogica/dbt_expectations/0.5.7",
+            "name": "dbt_expectations",
+            "version": "0.5.7",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "4dfda1149a87c5de1f226622b54a405ddd5ae194"
+            }
+        },
+        "0.5.8": {
+            "id": "calogica/dbt_expectations/0.5.8",
+            "name": "dbt_expectations",
+            "version": "0.5.8",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "db480c8ac0a3fd2a7732f1a0fa961f7a5b759e1d"
+            }
+        },
+        "0.6.0": {
+            "id": "calogica/dbt_expectations/0.6.0",
+            "name": "dbt_expectations",
+            "version": "0.6.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.2.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "55cc92f4ddb65ffffbf04997d7697f54a8d923a5"
+            }
+        },
+        "0.6.1": {
+            "id": "calogica/dbt_expectations/0.6.1",
+            "name": "dbt_expectations",
+            "version": "0.6.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.2.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "f084306a5c8c7da4a58b6e3d9660771e33e2a17d"
+            }
+        },
+        "0.7.0": {
+            "id": "calogica/dbt_expectations/0.7.0",
+            "name": "dbt_expectations",
+            "version": "0.7.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.2.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6368456c8824bc6b6514a22843b06c0a89ac524e"
+            }
+        }
+    }
+}

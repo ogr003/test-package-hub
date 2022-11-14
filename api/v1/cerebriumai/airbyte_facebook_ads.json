@@ -1,0 +1,49 @@
+{
+    "name": "airbyte_facebook_ads",
+    "namespace": "cerebriumai",
+    "description": "dbt models for airbyte_dbt_facebook_ads",
+    "latest": "0.1.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "cerebriumai/airbyte_facebook_ads/0.1.0",
+            "name": "airbyte_facebook_ads",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                },
+                {
+                    "package": "dbt-labs/spark_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6fd466bbfc3f5a1954aa8c029d045a7a05944de5"
+            }
+        }
+    }
+}

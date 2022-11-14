@@ -1,0 +1,531 @@
+{
+    "name": "zendesk",
+    "namespace": "fivetran",
+    "description": "dbt models for dbt_zendesk",
+    "latest": "0.9.1",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "fivetran/zendesk/v0.1.0",
+            "name": "zendesk",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": "0.1.0"
+                }
+            ],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "091824d7532c6596d8a271537ea463206121ce89"
+            }
+        },
+        "0.1.1": {
+            "id": "fivetran/zendesk/v0.1.1",
+            "name": "zendesk",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": "0.1.1"
+                }
+            ],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "9997619f2746175f2ab6fdae82f4ff218f03acf4"
+            }
+        },
+        "0.2.0": {
+            "id": "fivetran/zendesk/v0.2.0",
+            "name": "zendesk",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6c5d87cd7f3b071f18135fd971919ca33e2f0e4e"
+            }
+        },
+        "0.3.0": {
+            "id": "fivetran/zendesk/v0.3.0",
+            "name": "zendesk",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "37881b1574ff781c21bc51f86e41e87225f0c252"
+            }
+        },
+        "0.4.0": {
+            "id": "fivetran/zendesk/v0.4.0",
+            "name": "zendesk",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "64ee0df44b1e74f5c8949cb1cdc1212081af9df0"
+            }
+        },
+        "0.4.1": {
+            "id": "fivetran/zendesk/v0.4.1",
+            "name": "zendesk",
+            "version": "0.4.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8a59fe4563c85cccb98835a37717c9241ea2a4bc"
+            }
+        },
+        "0.5.0": {
+            "id": "fivetran/zendesk/v0.5.0",
+            "name": "zendesk",
+            "version": "0.5.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8c74bc328d91d29c83b9dd13187d6c3f153f454b"
+            }
+        },
+        "0.5.1": {
+            "id": "fivetran/zendesk/v0.5.1",
+            "name": "zendesk",
+            "version": "0.5.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "105318684632db5ab2588bcc3e8cfdb0dca97d5f"
+            }
+        },
+        "0.5.2": {
+            "id": "fivetran/zendesk/v0.5.2",
+            "name": "zendesk",
+            "version": "0.5.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "4c823d22d18166791d6bd813a61262e8158681e8"
+            }
+        },
+        "0.6.0": {
+            "id": "fivetran/zendesk/v0.6.0",
+            "name": "zendesk",
+            "version": "0.6.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "40be47b69915f5417f233f90d7afb3a6778fad3c"
+            }
+        },
+        "0.7.0": {
+            "id": "fivetran/zendesk/v0.7.0",
+            "name": "zendesk",
+            "version": "0.7.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c1cb70f1f36a4a698ef546d5e6e365627de5d6fb"
+            }
+        },
+        "0.7.1": {
+            "id": "fivetran/zendesk/v0.7.1",
+            "name": "zendesk",
+            "version": "0.7.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "fa85d7dd2e10603aec68ee5c22a19307442cce0c"
+            }
+        },
+        "0.8.0-b1": {
+            "id": "fivetran/zendesk/v0.8.0-b1",
+            "name": "zendesk",
+            "version": "0.8.0-b1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5e45029c4611fb21fdc648df89040036a4a220f9"
+            }
+        },
+        "0.8.0": {
+            "id": "fivetran/zendesk/v0.8.0",
+            "name": "zendesk",
+            "version": "0.8.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "337bef12458d63258984807239a5442023463ecd"
+            }
+        },
+        "0.8.1": {
+            "id": "fivetran/zendesk/v0.8.1",
+            "name": "zendesk",
+            "version": "0.8.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "af5b08b247a6b956c3dcd0b1e18bdfde7821aadc"
+            }
+        },
+        "0.8.2": {
+            "id": "fivetran/zendesk/v0.8.2",
+            "name": "zendesk",
+            "version": "0.8.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                },
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1b5343b78530eb14db0a540645772b20c485429c"
+            }
+        },
+        "0.8.3": {
+            "id": "fivetran/zendesk/v0.8.3",
+            "name": "zendesk",
+            "version": "0.8.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                },
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "170bb79cde56cc579856077796d46cef2d6223a2"
+            }
+        },
+        "0.8.4": {
+            "id": "fivetran/zendesk/v0.8.4",
+            "name": "zendesk",
+            "version": "0.8.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                },
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "02dddb090a108b4f6e8689309082fd18da1025aa"
+            }
+        },
+        "0.9.0": {
+            "id": "fivetran/zendesk/v0.9.0",
+            "name": "zendesk",
+            "version": "0.9.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": [
+                        ">=0.7.0",
+                        "<0.8.0"
+                    ]
+                },
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1629aac800fa69d523d6ab14b32aabb1cac9899b"
+            }
+        },
+        "0.9.1": {
+            "id": "fivetran/zendesk/v0.9.1",
+            "name": "zendesk",
+            "version": "0.9.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/zendesk_source",
+                    "version": [
+                        ">=0.7.0",
+                        "<0.8.0"
+                    ]
+                },
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "844e2cef16360d1547cd33877871e3952209601e"
+            }
+        }
+    }
+}

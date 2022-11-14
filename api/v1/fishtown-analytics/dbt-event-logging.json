@@ -1,0 +1,119 @@
+{
+    "name": "dbt-event-logging",
+    "namespace": "fishtown-analytics",
+    "description": "dbt models for dbt-event-logging",
+    "latest": "0.1.5",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "fishtown-analytics/dbt-event-logging/0.1.0",
+            "name": "dbt-event-logging",
+            "version": "0.1.0",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [
+                {
+                    "git": "https://github.com/fishtown-analytics/dbt-utils.git",
+                    "revision": "0.1.12"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b4e8ceca43527bb25e402db565ac00f6e488568e"
+            }
+        },
+        "0.1.1": {
+            "id": "fishtown-analytics/dbt-event-logging/0.1.1",
+            "name": "dbt-event-logging",
+            "version": "0.1.1",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [
+                {
+                    "git": "https://github.com/fishtown-analytics/dbt-utils.git",
+                    "revision": "0.1.12"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c3d4398c92fdc4242255c94700a0f95a299c059c"
+            }
+        },
+        "0.1.2": {
+            "id": "fishtown-analytics/dbt-event-logging/0.1.2",
+            "name": "dbt-event-logging",
+            "version": "0.1.2",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [
+                {
+                    "git": "https://github.com/fishtown-analytics/dbt-utils.git",
+                    "revision": "0.1.12"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "92cd22e9b33ba99d5d61c8bcaa3bf140274a404e"
+            }
+        },
+        "0.1.3": {
+            "id": "fishtown-analytics/dbt-event-logging/0.1.3",
+            "name": "dbt-event-logging",
+            "version": "0.1.3",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [
+                {
+                    "git": "https://github.com/fishtown-analytics/dbt-utils.git",
+                    "revision": "0.1.12"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0a0822ad63d5c7af3aa1ed80069407eaacafbb88"
+            }
+        },
+        "0.1.4": {
+            "id": "fishtown-analytics/dbt-event-logging/0.1.4",
+            "name": "dbt-event-logging",
+            "version": "0.1.4",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [
+                {
+                    "git": "https://github.com/fishtown-analytics/dbt-utils.git",
+                    "revision": "0.1.12"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1dfa8a31b8f8df8d6d67d9789515361485464875"
+            }
+        },
+        "0.1.5": {
+            "id": "fishtown-analytics/dbt-event-logging/0.1.5",
+            "name": "dbt-event-logging",
+            "version": "0.1.5",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [
+                {
+                    "git": "https://github.com/fishtown-analytics/dbt-utils.git",
+                    "revision": "0.1.12"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "86eaaa7575658f6c6adc219bbfe9153946988dbb"
+            }
+        }
+    }
+}

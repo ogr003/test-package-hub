@@ -1,0 +1,102 @@
+{
+    "name": "shopify",
+    "namespace": "fishtown-analytics",
+    "description": "dbt models for shopify",
+    "latest": "0.1.6",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "fishtown-analytics/shopify/0.1.0",
+            "name": "shopify",
+            "version": "0.1.0",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6a47242f7882b5261576851299fb76aef3e0a66b"
+            }
+        },
+        "0.1.1": {
+            "id": "fishtown-analytics/shopify/0.1.1",
+            "name": "shopify",
+            "version": "0.1.1",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ddb74b10bec678ac76792b6db632ca0dc12754b9"
+            }
+        },
+        "0.1.2": {
+            "id": "fishtown-analytics/shopify/0.1.2",
+            "name": "shopify",
+            "version": "0.1.2",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d6355a956815753238353e1bbccec296f472abd7"
+            }
+        },
+        "0.1.3": {
+            "id": "fishtown-analytics/shopify/0.1.3",
+            "name": "shopify",
+            "version": "0.1.3",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3534b36ebd507a2594bc7826e2c69deae869c6ce"
+            }
+        },
+        "0.1.4": {
+            "id": "fishtown-analytics/shopify/0.1.4",
+            "name": "shopify",
+            "version": "0.1.4",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6aaee023a728aaf1871c03fc69e6cee29a0a299f"
+            }
+        },
+        "0.1.5": {
+            "id": "fishtown-analytics/shopify/0.1.5",
+            "name": "shopify",
+            "version": "0.1.5",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8f1fe52f389cc707aa6c75cc71c26bd7d1810587"
+            }
+        },
+        "0.1.6": {
+            "id": "fishtown-analytics/shopify/0.1.6",
+            "name": "shopify",
+            "version": "0.1.6",
+            "published_at": "2019-02-22T01:33:41.299036+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "616568ce9531a87c17776f751119a22b5d42dccc"
+            }
+        }
+    }
+}

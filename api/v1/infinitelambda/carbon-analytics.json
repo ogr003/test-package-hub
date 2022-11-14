@@ -1,0 +1,53 @@
+{
+    "name": "carbon-analytics",
+    "namespace": "infinitelambda",
+    "description": "dbt models for carbon-analytics",
+    "latest": "0.1.1",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "infinitelambda/carbon-analytics/0.1.0",
+            "name": "carbon-analytics",
+            "version": "0.1.0",
+            "published_at": "2022-06-29T17:01:17.951571+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_expectations",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "422e826edfe6a37f025ae0a671316c3416c562bd"
+            }
+        },
+        "0.1.1": {
+            "id": "infinitelambda/carbon-analytics/0.1.1",
+            "name": "carbon-analytics",
+            "version": "0.1.1",
+            "published_at": "2022-06-30T12:01:29.001693+00:00",
+            "packages": [
+                {
+                    "package": "calogica/dbt_expectations",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "cc5955c2b89179e1be7d52f6ea13aabc074a7023"
+            }
+        }
+    }
+}

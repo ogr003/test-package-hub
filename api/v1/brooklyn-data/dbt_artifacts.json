@@ -1,0 +1,463 @@
+{
+    "name": "dbt_artifacts",
+    "namespace": "brooklyn-data",
+    "description": "dbt models for dbt_artifacts",
+    "latest": "2.2.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "brooklyn-data/dbt_artifacts/0.1.0",
+            "name": "dbt_artifacts",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6f30533b565ea8fdbab558624173f221da95a34a"
+            }
+        },
+        "0.2.0": {
+            "id": "brooklyn-data/dbt_artifacts/0.2.0",
+            "name": "dbt_artifacts",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.19.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "2127c3a272d33945f894a063abd5bc1a7caafee7"
+            }
+        },
+        "0.2.1": {
+            "id": "brooklyn-data/dbt_artifacts/0.2.1",
+            "name": "dbt_artifacts",
+            "version": "0.2.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.19.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "f976c5b979eec5f98571b6bfc598cf0a17cd4374"
+            }
+        },
+        "0.3.0": {
+            "id": "brooklyn-data/dbt_artifacts/0.3.0",
+            "name": "dbt_artifacts",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.19.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "256f5f9a4a28df9ad5de5a4e76a3ca6e059e5bf1"
+            }
+        },
+        "0.4.0": {
+            "id": "brooklyn-data/dbt_artifacts/0.4.0",
+            "name": "dbt_artifacts",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.19.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "23846814e83a1e2a535278ba131ec566fe7b6d60"
+            }
+        },
+        "0.4.1": {
+            "id": "brooklyn-data/dbt_artifacts/0.4.1",
+            "name": "dbt_artifacts",
+            "version": "0.4.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.19.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6a0c50f95aa4cb3ae9f2bd1fc28d3da9734ad21f"
+            }
+        },
+        "0.4.2": {
+            "id": "brooklyn-data/dbt_artifacts/0.4.2",
+            "name": "dbt_artifacts",
+            "version": "0.4.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.19.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c035ab532add88ecfa230d7462d7b36ad88d01b1"
+            }
+        },
+        "0.4.3": {
+            "id": "brooklyn-data/dbt_artifacts/0.4.3",
+            "name": "dbt_artifacts",
+            "version": "0.4.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.19.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "97659dff207e88cfdda5120c3d0dc687e8e2461d"
+            }
+        },
+        "0.4.4": {
+            "id": "brooklyn-data/dbt_artifacts/0.4.4",
+            "name": "dbt_artifacts",
+            "version": "0.4.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.19.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "91a479b21c6401d9d7482b28533007bb557b839e"
+            }
+        },
+        "0.5.0": {
+            "id": "brooklyn-data/dbt_artifacts/0.5.0",
+            "name": "dbt_artifacts",
+            "version": "0.5.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.8.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.20.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b655787705ef515e578e91090da4af4542155e32"
+            }
+        },
+        "0.6.0": {
+            "id": "brooklyn-data/dbt_artifacts/0.6.0",
+            "name": "dbt_artifacts",
+            "version": "0.6.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.9.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.20.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "2a86d86c2e91697a7f207b92919225ed6e2b4a97"
+            }
+        },
+        "0.7.0": {
+            "id": "brooklyn-data/dbt_artifacts/0.7.0",
+            "name": "dbt_artifacts",
+            "version": "0.7.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.9.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.20.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "dac4e2efed2df40ee1a82d3f0d3ed04aa42ee3d4"
+            }
+        },
+        "0.8.0": {
+            "id": "brooklyn-data/dbt_artifacts/0.8.0",
+            "name": "dbt_artifacts",
+            "version": "0.8.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.9.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.20.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d63e17a7613f0b50abe22a9ea05e620cc6557a83"
+            }
+        },
+        "1.0.0": {
+            "id": "brooklyn-data/dbt_artifacts/1.0.0",
+            "name": "dbt_artifacts",
+            "version": "1.0.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.9.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=1.0.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ded5e75cc1c6fc341a3adc236a1db6049f5e89f2"
+            }
+        },
+        "1.1.0": {
+            "id": "brooklyn-data/dbt_artifacts/1.1.0",
+            "name": "dbt_artifacts",
+            "version": "1.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.9.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=1.0.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "04246a9cb9487ad4d3e0be3e08e90569c948abd3"
+            }
+        },
+        "1.1.1": {
+            "id": "brooklyn-data/dbt_artifacts/1.1.1",
+            "name": "dbt_artifacts",
+            "version": "1.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.9.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=1.0.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "63c1bdfb74b942335ddc8ea259763ac949cd44d9"
+            }
+        },
+        "1.1.2": {
+            "id": "brooklyn-data/dbt_artifacts/1.1.2",
+            "name": "dbt_artifacts",
+            "version": "1.1.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.9.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=1.0.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "17f20cdb9d41e052c36ecc1baf8dc5e3904c226b"
+            }
+        },
+        "1.2.0": {
+            "id": "brooklyn-data/dbt_artifacts/1.2.0",
+            "name": "dbt_artifacts",
+            "version": "1.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.9.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=1.0.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ae36866b849904414d2a4ec966cf7538b88279d7"
+            }
+        },
+        "2.0.0": {
+            "id": "brooklyn-data/dbt_artifacts/2.0.0",
+            "name": "dbt_artifacts",
+            "version": "2.0.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=1.2.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0637deda7b746e09d82a801c9eb0d6f4e217a97e"
+            }
+        },
+        "2.1.0": {
+            "id": "brooklyn-data/dbt_artifacts/2.1.0",
+            "name": "dbt_artifacts",
+            "version": "2.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=1.2.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6a83fdf568f47a4f171e2ff094d80716683628f7"
+            }
+        },
+        "2.1.1": {
+            "id": "brooklyn-data/dbt_artifacts/2.1.1",
+            "name": "dbt_artifacts",
+            "version": "2.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=1.2.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "32b850905bbabee84a19208a98b3241998259279"
+            }
+        },
+        "2.2.0": {
+            "id": "brooklyn-data/dbt_artifacts/2.2.0",
+            "name": "dbt_artifacts",
+            "version": "2.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=1.3.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "a71a7f1d5b8fbbfd5f97c34582bdbd7b2675971b"
+            }
+        }
+    }
+}

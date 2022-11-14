@@ -1,0 +1,95 @@
+{
+    "name": "dbtplyr",
+    "namespace": "emilyriederer",
+    "description": "dbt models for dbtplyr",
+    "latest": "0.3.2",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "emilyriederer/dbtplyr/0.1.0",
+            "name": "dbtplyr",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "4d04b07b9018ec6bf34080ea8e78b8d03874e0f4"
+            }
+        },
+        "0.1.1": {
+            "id": "emilyriederer/dbtplyr/0.1.1",
+            "name": "dbtplyr",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.19.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "9afd508d165258da3a5fbec8412c5efc24f22a42"
+            }
+        },
+        "0.2.0": {
+            "id": "emilyriederer/dbtplyr/0.2.0",
+            "name": "dbtplyr",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.19.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ae1bfe0a891c792cb4dacef5a43bb54e95492d32"
+            }
+        },
+        "0.3.0": {
+            "id": "emilyriederer/dbtplyr/0.3.0",
+            "name": "dbtplyr",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=1.0.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3a5b9050dc86da48589c163b345b93729d2f725c"
+            }
+        },
+        "0.3.1": {
+            "id": "emilyriederer/dbtplyr/0.3.1",
+            "name": "dbtplyr",
+            "version": "0.3.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=1.0.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0df38cc0ecf1218d242b64f58fe7d7172da7ef81"
+            }
+        },
+        "0.3.2": {
+            "id": "emilyriederer/dbtplyr/0.3.2",
+            "name": "dbtplyr",
+            "version": "0.3.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=1.0.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6184513b8b9e69d012f5889cda12985539fb4e44"
+            }
+        }
+    }
+}

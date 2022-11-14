@@ -1,0 +1,60 @@
+{
+    "name": "purecloud",
+    "namespace": "fishtown-analytics",
+    "description": "dbt models for purecloud",
+    "latest": "0.1.2",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "fishtown-analytics/purecloud/0.1.0",
+            "name": "purecloud",
+            "version": "0.1.0",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "51dfd8540a889591ff9f6cfa186817703e6ca87c"
+            }
+        },
+        "0.1.1": {
+            "id": "fishtown-analytics/purecloud/0.1.1",
+            "name": "purecloud",
+            "version": "0.1.1",
+            "published_at": "2019-01-03T15:34:22.925158+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt-utils",
+                    "version": ">=0.1.18"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ab7908cd2e4343ec2ca6bda56ac8daffadf2fa08"
+            }
+        },
+        "0.1.2": {
+            "id": "fishtown-analytics/purecloud/0.1.2",
+            "name": "purecloud",
+            "version": "0.1.2",
+            "published_at": "2019-01-08T21:37:23.033377+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "2f242cb10c7beaa66b1ab10be0ae2eb126583690"
+            }
+        }
+    }
+}

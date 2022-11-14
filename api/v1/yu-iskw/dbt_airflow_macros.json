@@ -1,0 +1,123 @@
+{
+    "name": "dbt_airflow_macros",
+    "namespace": "yu-iskw",
+    "description": "dbt models for dbt-airflow-macros",
+    "latest": "0.3.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "yu-iskw/dbt_airflow_macros/0.1.0",
+            "name": "dbt_airflow_macros",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.18.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "18f906558e0bb948e9ae0ee0c49fb248314ac427"
+            }
+        },
+        "0.2.0": {
+            "id": "yu-iskw/dbt_airflow_macros/0.2.0",
+            "name": "dbt_airflow_macros",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.17.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "bf52021cc1d6e24a44063344bb98387902f6c265"
+            }
+        },
+        "0.2.1": {
+            "id": "yu-iskw/dbt_airflow_macros/0.2.1",
+            "name": "dbt_airflow_macros",
+            "version": "0.2.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.17.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "20cfa76f2c1780cb097bf9d79a36e174bf4a4f5e"
+            }
+        },
+        "0.2.2": {
+            "id": "yu-iskw/dbt_airflow_macros/0.2.2",
+            "name": "dbt_airflow_macros",
+            "version": "0.2.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.17.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "94331784c021a19ef47542b444d8c9def1fe5392"
+            }
+        },
+        "0.2.3": {
+            "id": "yu-iskw/dbt_airflow_macros/0.2.3",
+            "name": "dbt_airflow_macros",
+            "version": "0.2.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.17.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3525cabc9c88fff390da216a045ba49e9b63ce37"
+            }
+        },
+        "0.2.4": {
+            "id": "yu-iskw/dbt_airflow_macros/0.2.4",
+            "name": "dbt_airflow_macros",
+            "version": "0.2.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.17.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "02171ece45b9d6e8b2724f8178677c43f59919e5"
+            }
+        },
+        "0.3.0": {
+            "id": "yu-iskw/dbt_airflow_macros/0.3.0",
+            "name": "dbt_airflow_macros",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.17.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "61fa189feea1b1a4bb6fd4ec2ba62fa39886ab6d"
+            }
+        }
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "name": "audit_helper",
+    "namespace": "fishtown-analytics",
+    "description": "dbt models for dbt-audit-helper",
+    "latest": "0.3.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "redirectnamespace": "dbt-labs",
+    "versions": {
+        "0.0.1": {
+            "id": "fishtown-analytics/audit_helper/0.0.1",
+            "name": "audit_helper",
+            "version": "0.0.1",
+            "published_at": "2019-07-11T00:17:20.119034+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.1.24",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "86f468a02640fb892a81c8c1e960cef6b5bc44a0"
+            }
+        },
+        "0.0.2": {
+            "id": "fishtown-analytics/audit_helper/0.0.2",
+            "name": "audit_helper",
+            "version": "0.0.2",
+            "published_at": "2019-08-15T01:00:03.890099+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.1.24",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "7b91a3d72ca2dc110e45fc13fb8041610ca3ad23"
+            }
+        },
+        "0.0.6": {
+            "id": "fishtown-analytics/audit_helper/0.0.6",
+            "name": "audit_helper",
+            "version": "0.0.6",
+            "published_at": "2020-04-27T16:00:08.692323+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.1.24",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6464f7158add2654e20a28293903f3dd4889c155"
+            }
+        },
+        "0.1.0": {
+            "id": "fishtown-analytics/audit_helper/0.1.0",
+            "name": "audit_helper",
+            "version": "0.1.0",
+            "published_at": "2020-06-16T14:03:19.640267+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.1.24",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "f45abed0b4bea322a25f3329d82eb1df585a147c"
+            }
+        },
+        "0.2.0": {
+            "id": "fishtown-analytics/audit_helper/0.2.0",
+            "name": "audit_helper",
+            "version": "0.2.0",
+            "published_at": "2020-07-31T15:03:05.795835+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.1.24",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "27122069f1bc1a9f86768c26253c536f0073854f"
+            }
+        },
+        "0.3.0": {
+            "id": "fishtown-analytics/audit_helper/0.3.0",
+            "name": "audit_helper",
+            "version": "0.3.0",
+            "published_at": "2020-09-04T21:01:57.323495+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "28cfded1d163cf071d1f23d25b13133fa78639bd"
+            }
+        },
+        "0.0.3": {
+            "id": "fishtown-analytics/audit_helper/v0.0.3",
+            "name": "audit_helper",
+            "version": "0.0.3",
+            "published_at": "2019-10-02T23:00:03.010257+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.1.24",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3a35fe36eaec69ce1d80d8e41e799fd01d920857"
+            }
+        },
+        "0.0.4": {
+            "id": "fishtown-analytics/audit_helper/v0.0.4",
+            "name": "audit_helper",
+            "version": "0.0.4",
+            "published_at": "2019-10-03T01:00:03.738744+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.1.24",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0894412fb038bb875dc23975e91e7cee4bd831e7"
+            }
+        },
+        "0.0.5": {
+            "id": "fishtown-analytics/audit_helper/v0.0.5",
+            "name": "audit_helper",
+            "version": "0.0.5",
+            "published_at": "2020-04-06T19:00:05.872013+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.1.24",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "234224f6b46a84753a502cacacc45bfff3d08d07"
+            }
+        }
+    }
+}

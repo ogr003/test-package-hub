@@ -1,0 +1,162 @@
+{
+    "name": "stitch_utils",
+    "namespace": "fishtown-analytics",
+    "description": "dbt models for stitch-utils",
+    "latest": "0.2.1",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "redirectnamespace": "dbt-labs",
+    "versions": {
+        "0.1.2": {
+            "id": "fishtown-analytics/stitch_utils/0.1.2",
+            "name": "stitch_utils",
+            "version": "0.1.2",
+            "published_at": "2019-03-18T19:01:46.783761-04:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.19"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "bf286c3aa4d4edf978e879a66a0d2f43711c9b44"
+            }
+        },
+        "0.1.3": {
+            "id": "fishtown-analytics/stitch_utils/0.1.3",
+            "name": "stitch_utils",
+            "version": "0.1.3",
+            "published_at": "2019-03-22T18:44:25.658535+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.19"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b3ac71581a0f402c0b33ff978be4c310d14243d1"
+            }
+        },
+        "0.1.4": {
+            "id": "fishtown-analytics/stitch_utils/0.1.4",
+            "name": "stitch_utils",
+            "version": "0.1.4",
+            "published_at": "2019-04-04T15:00:04.929040+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.19"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "f4428147edea14f8c0a40f0540ef76f03a85cc57"
+            }
+        },
+        "0.1.5": {
+            "id": "fishtown-analytics/stitch_utils/0.1.5",
+            "name": "stitch_utils",
+            "version": "0.1.5",
+            "published_at": "2019-07-09T03:08:00.531579+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.19"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6c2521265f052169f7669da77dc2708cf0796f92"
+            }
+        },
+        "0.1.6": {
+            "id": "fishtown-analytics/stitch_utils/0.1.6",
+            "name": "stitch_utils",
+            "version": "0.1.6",
+            "published_at": "2019-10-04T14:00:02.340004+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.19"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e10cc9ea6ea7ed56ba28c59db1c5415435848c61"
+            }
+        },
+        "0.1.7": {
+            "id": "fishtown-analytics/stitch_utils/0.1.7",
+            "name": "stitch_utils",
+            "version": "0.1.7",
+            "published_at": "2020-01-14T22:00:03.786886+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.19"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d07617587ef67c1701afd86fde405e63e7aaed7e"
+            }
+        },
+        "0.2.0": {
+            "id": "fishtown-analytics/stitch_utils/0.2.0",
+            "name": "stitch_utils",
+            "version": "0.2.0",
+            "published_at": "2020-07-31T19:01:52.747001+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "79740998eae3fa0cadda5321fdcad61125a7a6fa"
+            }
+        },
+        "0.2.1": {
+            "id": "fishtown-analytics/stitch_utils/0.2.1",
+            "name": "stitch_utils",
+            "version": "0.2.1",
+            "published_at": "2020-09-04T21:01:57.323495+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0860c0f045dd0b583b068d9627fd3911ab2351fb"
+            }
+        }
+    }
+}

@@ -1,0 +1,305 @@
+{
+    "name": "adwords",
+    "namespace": "fishtown-analytics",
+    "description": "dbt models for adwords",
+    "latest": "0.2.12",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "redirectnamespace": "dbt-labs",
+    "versions": {
+        "0.0.1": {
+            "id": "fishtown-analytics/adwords/0.0.1",
+            "name": "adwords",
+            "version": "0.0.1",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d7eb8615faefe2464da66ec03bcc559c3589998a"
+            }
+        },
+        "0.1.1": {
+            "id": "fishtown-analytics/adwords/0.1.1",
+            "name": "adwords",
+            "version": "0.1.1",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "4b243be212b60df07467b745c7dbc8f6a82f41a4"
+            }
+        },
+        "0.1.2": {
+            "id": "fishtown-analytics/adwords/0.1.2",
+            "name": "adwords",
+            "version": "0.1.2",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "7a698f5c3e7ee8897aef684aac47e4fae0ebcdb7"
+            }
+        },
+        "0.1.3": {
+            "id": "fishtown-analytics/adwords/0.1.3",
+            "name": "adwords",
+            "version": "0.1.3",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "f2ca259724618d17f5bd76b464387d48d783b756"
+            }
+        },
+        "0.1.4": {
+            "id": "fishtown-analytics/adwords/0.1.4",
+            "name": "adwords",
+            "version": "0.1.4",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "033c3dc9dedfef62dc81db38ce4ffb07619d38c6"
+            }
+        },
+        "0.2.0": {
+            "id": "fishtown-analytics/adwords/0.2.0",
+            "name": "adwords",
+            "version": "0.2.0",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "f12acf263da4c4af0ed056913cc033efa3e13fc5"
+            }
+        },
+        "0.2.1": {
+            "id": "fishtown-analytics/adwords/0.2.1",
+            "name": "adwords",
+            "version": "0.2.1",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d485fbfe9e5b432b4d42b39f577f59c1db7b5e64"
+            }
+        },
+        "0.2.10": {
+            "id": "fishtown-analytics/adwords/0.2.10",
+            "name": "adwords",
+            "version": "0.2.10",
+            "published_at": "2020-03-23T20:25:42.271714+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1bd296da4c357f9cc392b976b7039bb1710b1bbc"
+            }
+        },
+        "0.2.11": {
+            "id": "fishtown-analytics/adwords/0.2.11",
+            "name": "adwords",
+            "version": "0.2.11",
+            "published_at": "2021-05-04T17:02:16.866973+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.1.20",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "f88c9605a69bc9dc34cd2c6be018c9d4a3b2c7bc"
+            }
+        },
+        "0.2.12": {
+            "id": "fishtown-analytics/adwords/0.2.12",
+            "name": "adwords",
+            "version": "0.2.12",
+            "published_at": "2021-05-05T17:02:06.741019+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.1.20",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "693859026e2f0a8fd187787d0a432a746c746987"
+            }
+        },
+        "0.2.2": {
+            "id": "fishtown-analytics/adwords/0.2.2",
+            "name": "adwords",
+            "version": "0.2.2",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "17fbd2fcbc9fbd902617c5b0070f85f2b35b3e6b"
+            }
+        },
+        "0.2.2a": {
+            "id": "fishtown-analytics/adwords/v0.2.2a",
+            "name": "adwords",
+            "version": "0.2.2a",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "dbde91427f7eb0e50b6dbf7439f4c1703a842594"
+            }
+        },
+        "0.2.3": {
+            "id": "fishtown-analytics/adwords/0.2.3",
+            "name": "adwords",
+            "version": "0.2.3",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "dbe7e4937afbb2264a64d2f2e012ebdab303211b"
+            }
+        },
+        "0.2.4": {
+            "id": "fishtown-analytics/adwords/0.2.4",
+            "name": "adwords",
+            "version": "0.2.4",
+            "published_at": "2019-02-22T01:06:59.889600+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "cc3011663f9687f260ef45909767d5576652dd6c"
+            }
+        },
+        "0.2.5": {
+            "id": "fishtown-analytics/adwords/0.2.5",
+            "name": "adwords",
+            "version": "0.2.5",
+            "published_at": "2019-03-01T20:00:03.546916+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "73e2dcb60be6ed1eeb1cba5b04f5495e1b5cd9c8"
+            }
+        },
+        "0.2.6": {
+            "id": "fishtown-analytics/adwords/0.2.6",
+            "name": "adwords",
+            "version": "0.2.6",
+            "published_at": "2019-03-18T15:00:02.827841+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6914b3d22478d0efeb811c32086d0b56447c4884"
+            }
+        },
+        "0.2.7": {
+            "id": "fishtown-analytics/adwords/0.2.7",
+            "name": "adwords",
+            "version": "0.2.7",
+            "published_at": "2019-03-28T15:00:06.341840+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8a813bc650f126e9fad1e61f21e38fb460c38ea2"
+            }
+        },
+        "0.2.8": {
+            "id": "fishtown-analytics/adwords/0.2.8",
+            "name": "adwords",
+            "version": "0.2.8",
+            "published_at": "2019-03-29T15:00:05.955499+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "fb9649b339ae08649bd104f96d812b0551b7ce70"
+            }
+        },
+        "0.2.9": {
+            "id": "fishtown-analytics/adwords/0.2.9",
+            "name": "adwords",
+            "version": "0.2.9",
+            "published_at": "2019-04-22T19:00:03.201092+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e918362e90b9ae34c55b0ec7ff55326eb1ab3b29"
+            }
+        }
+    }
+}

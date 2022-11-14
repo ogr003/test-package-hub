@@ -1,0 +1,299 @@
+{
+    "name": "dbt-utils",
+    "namespace": "fishtown-analytics",
+    "description": "dbt models for dbt-utils",
+    "latest": "0.1.20",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "redirectname": "dbt_utils",
+    "redirectnamespace": "dbt-labs",
+    "versions": {
+        "0.0.1": {
+            "id": "fishtown-analytics/dbt-utils/0.0.1",
+            "name": "dbt-utils",
+            "version": "0.0.1",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "92da8342ed213b899a7e03a28762dc2cfd8f5365"
+            }
+        },
+        "0.1.0": {
+            "id": "fishtown-analytics/dbt-utils/0.1.0",
+            "name": "dbt-utils",
+            "version": "0.1.0",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5fdf77247623708a46740fbd643cecf9562748c9"
+            }
+        },
+        "0.1.1": {
+            "id": "fishtown-analytics/dbt-utils/0.1.1",
+            "name": "dbt-utils",
+            "version": "0.1.1",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3012a8d772c67ad492082906b26773819c99dca3"
+            }
+        },
+        "0.1.10": {
+            "id": "fishtown-analytics/dbt-utils/0.1.10",
+            "name": "dbt-utils",
+            "version": "0.1.10",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "bd5c3bfc24bab5fad518eba9f952e34a990ebe9a"
+            }
+        },
+        "0.1.11": {
+            "id": "fishtown-analytics/dbt-utils/0.1.11",
+            "name": "dbt-utils",
+            "version": "0.1.11",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "fe32acadb2f37bd75f08d1071e8a733b354ecfe0"
+            }
+        },
+        "0.1.12": {
+            "id": "fishtown-analytics/dbt-utils/0.1.12",
+            "name": "dbt-utils",
+            "version": "0.1.12",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3d9c5a08bd30e3b78f13397ffc4c7dfec5774741"
+            }
+        },
+        "0.1.13": {
+            "id": "fishtown-analytics/dbt-utils/0.1.13",
+            "name": "dbt-utils",
+            "version": "0.1.13",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "829ae847fe632e60257fb71760f86ae98a008dcc"
+            }
+        },
+        "0.1.14": {
+            "id": "fishtown-analytics/dbt-utils/0.1.14",
+            "name": "dbt-utils",
+            "version": "0.1.14",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5f0306d1a3c9a2341a9328ee13a99160e8f00ea9"
+            }
+        },
+        "0.1.15": {
+            "id": "fishtown-analytics/dbt-utils/0.1.15",
+            "name": "dbt-utils",
+            "version": "0.1.15",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8baa236abc3438099e2477862d05b83a1648c2f4"
+            }
+        },
+        "0.1.16": {
+            "id": "fishtown-analytics/dbt-utils/0.1.16",
+            "name": "dbt-utils",
+            "version": "0.1.16",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c66c2ec7dda1497b9808b486243206091939a992"
+            }
+        },
+        "0.1.17": {
+            "id": "fishtown-analytics/dbt-utils/0.1.17",
+            "name": "dbt-utils",
+            "version": "0.1.17",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6fa372e5d34083aebafa70572ac3cca129884986"
+            }
+        },
+        "0.1.18": {
+            "id": "fishtown-analytics/dbt-utils/0.1.18",
+            "name": "dbt-utils",
+            "version": "0.1.18",
+            "published_at": "2018-12-03T17:56:02.059739+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "661ebb7a49a93582dbca2104d866857284a37f99"
+            }
+        },
+        "0.1.19": {
+            "id": "fishtown-analytics/dbt-utils/0.1.19",
+            "name": "dbt-utils",
+            "version": "0.1.19",
+            "published_at": "2018-12-18T15:00:04.358821+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "16e288dc4dadf056ea06ca3125087974a9b25fa0"
+            }
+        },
+        "0.1.2": {
+            "id": "fishtown-analytics/dbt-utils/0.1.2",
+            "name": "dbt-utils",
+            "version": "0.1.2",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e6e711ca1c1fcd27a29724d64ad9c77dc9f9784b"
+            }
+        },
+        "0.1.20": {
+            "id": "fishtown-analytics/dbt-utils/0.1.20",
+            "name": "dbt-utils",
+            "version": "0.1.20",
+            "published_at": "2019-01-04T22:00:03.596387+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "34d275aa47001e298191c19129828c3526711cbb"
+            }
+        },
+        "0.1.3": {
+            "id": "fishtown-analytics/dbt-utils/0.1.3",
+            "name": "dbt-utils",
+            "version": "0.1.3",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c3cea2010e6ee3d461b80f541a41ff824650f207"
+            }
+        },
+        "0.1.4": {
+            "id": "fishtown-analytics/dbt-utils/0.1.4",
+            "name": "dbt-utils",
+            "version": "0.1.4",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8e7e77b322cb610c6d202e1b246da911d2fb2971"
+            }
+        },
+        "0.1.5": {
+            "id": "fishtown-analytics/dbt-utils/0.1.5",
+            "name": "dbt-utils",
+            "version": "0.1.5",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0d36005217fa2af3a2df2e43886d38bd7baa41c0"
+            }
+        },
+        "0.1.6": {
+            "id": "fishtown-analytics/dbt-utils/0.1.6",
+            "name": "dbt-utils",
+            "version": "0.1.6",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "daeb85b2556715d170e2899027f8d11ffa5c3d22"
+            }
+        },
+        "0.1.7": {
+            "id": "fishtown-analytics/dbt-utils/0.1.7",
+            "name": "dbt-utils",
+            "version": "0.1.7",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e61a0002da22508c50e6c136dbc2f008e5b76cc3"
+            }
+        },
+        "0.1.8": {
+            "id": "fishtown-analytics/dbt-utils/0.1.8",
+            "name": "dbt-utils",
+            "version": "0.1.8",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "65f5f80745443c59eef334a4b5fc494cb779aad6"
+            }
+        },
+        "0.1.9": {
+            "id": "fishtown-analytics/dbt-utils/0.1.9",
+            "name": "dbt-utils",
+            "version": "0.1.9",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "61f738712ae182b738bab0b2018b8337d6b43d6a"
+            }
+        }
+    }
+}

@@ -1,0 +1,425 @@
+{
+    "name": "snowplow_web",
+    "namespace": "snowplow",
+    "description": "dbt models for dbt-snowplow-web",
+    "latest": "0.9.3",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "snowplow/snowplow_web/0.1.0",
+            "name": "snowplow_web",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "snowplow/snowplow_utils",
+                    "version": [
+                        ">=0.1.1",
+                        "<0.2.0"
+                    ]
+                },
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                },
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8cea88cac569716c7b10adb7095dae448632c6a6"
+            }
+        },
+        "0.2.0": {
+            "id": "snowplow/snowplow_web/0.2.0",
+            "name": "snowplow_web",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "snowplow/snowplow_utils",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "13b08eb01f6fd4f5d4c282b50d159ee2224efb20"
+            }
+        },
+        "0.3.0": {
+            "id": "snowplow/snowplow_web/0.3.0",
+            "name": "snowplow_web",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "snowplow/snowplow_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "a1b3166533c81356fd5f2ffa06888a522897719f"
+            }
+        },
+        "0.4.0": {
+            "id": "snowplow/snowplow_web/0.4.0",
+            "name": "snowplow_web",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "snowplow/snowplow_utils",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "2ede5c6dc5e73bb2c8dd457a673e172b1f4b5770"
+            }
+        },
+        "0.4.1": {
+            "id": "snowplow/snowplow_web/0.4.1",
+            "name": "snowplow_web",
+            "version": "0.4.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "snowplow/snowplow_utils",
+                    "version": [
+                        ">=0.4.1",
+                        "<0.5.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ac0706a65efec5c969a10a75f274d01425847767"
+            }
+        },
+        "0.5.0": {
+            "id": "snowplow/snowplow_web/0.5.0",
+            "name": "snowplow_web",
+            "version": "0.5.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "snowplow/snowplow_utils",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<1.1.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "def706ec6feabe7f15d4c0cdb3c9c7da35c40f9a"
+            }
+        },
+        "0.5.1": {
+            "id": "snowplow/snowplow_web/0.5.1",
+            "name": "snowplow_web",
+            "version": "0.5.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "snowplow/snowplow_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<1.1.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3435385e3592ade95339a7c81127600cc058e2f0"
+            }
+        },
+        "0.6.0": {
+            "id": "snowplow/snowplow_web/0.6.0",
+            "name": "snowplow_web",
+            "version": "0.6.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "snowplow/snowplow_utils",
+                    "version": [
+                        ">=0.8.0",
+                        "<0.9.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "61b7eb5608eaa99abfc6fb6cb714ab0ad103aaf3"
+            }
+        },
+        "0.6.1": {
+            "id": "snowplow/snowplow_web/0.6.1",
+            "name": "snowplow_web",
+            "version": "0.6.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "snowplow/snowplow_utils",
+                    "version": [
+                        ">=0.9.0",
+                        "<0.10.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "110ae41ad95ce46875fc26c608267625e6b58172"
+            }
+        },
+        "0.6.2": {
+            "id": "snowplow/snowplow_web/0.6.2",
+            "name": "snowplow_web",
+            "version": "0.6.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "snowplow/snowplow_utils",
+                    "version": [
+                        ">=0.9.0",
+                        "<0.10.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6be19b5977b78a2bcdde1674d0e783a15fde5dfe"
+            }
+        },
+        "0.7.0": {
+            "id": "snowplow/snowplow_web/0.7.0",
+            "name": "snowplow_web",
+            "version": "0.7.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "snowplow/snowplow_utils",
+                    "version": [
+                        ">=0.10.0",
+                        "<0.11.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "55d48499394f250edd8f15b4384f602fd23160a7"
+            }
+        },
+        "0.8.0": {
+            "id": "snowplow/snowplow_web/0.8.0",
+            "name": "snowplow_web",
+            "version": "0.8.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "snowplow/snowplow_utils",
+                    "version": [
+                        ">=0.11.0",
+                        "<0.12.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "7e6718f8d46b7dd389bf8af854f1e66ebb4c56b8"
+            }
+        },
+        "0.9.0": {
+            "id": "snowplow/snowplow_web/0.9.0",
+            "name": "snowplow_web",
+            "version": "0.9.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "snowplow/snowplow_utils",
+                    "version": [
+                        ">=0.12.0",
+                        "<0.13.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d3071204ffa911227e1b96a46a516a6f11d99ad0"
+            }
+        },
+        "0.9.1": {
+            "id": "snowplow/snowplow_web/0.9.1",
+            "name": "snowplow_web",
+            "version": "0.9.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "snowplow/snowplow_utils",
+                    "version": [
+                        ">=0.12.0",
+                        "<0.13.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e0462d8dd3a7d8696fff630dd760240675ee54a8"
+            }
+        },
+        "0.9.2": {
+            "id": "snowplow/snowplow_web/0.9.2",
+            "name": "snowplow_web",
+            "version": "0.9.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "snowplow/snowplow_utils",
+                    "version": [
+                        ">=0.12.0",
+                        "<0.13.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "118a371629e5c8eccf8752485c02ff466fa2b0f8"
+            }
+        },
+        "0.9.3": {
+            "id": "snowplow/snowplow_web/0.9.3",
+            "name": "snowplow_web",
+            "version": "0.9.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "snowplow/snowplow_utils",
+                    "version": [
+                        ">=0.12.0",
+                        "<0.13.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "a19a64b4dd9e3e2eda872df0c95f5cf683d7bdbf"
+            }
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "name": "spark_utils",
+    "namespace": "dbt-labs",
+    "description": "dbt models for spark-utils",
+    "latest": "0.3.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "dbt-labs/spark_utils/0.1.0",
+            "name": "spark_utils",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "03a9e45c876344c1f48f457b1fda698751f898cd"
+            }
+        },
+        "0.2.0": {
+            "id": "dbt-labs/spark_utils/0.2.0",
+            "name": "spark_utils",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "dc424cb78c9f893eaf87c0912dcc6efead985e15"
+            }
+        },
+        "0.2.1": {
+            "id": "dbt-labs/spark_utils/0.2.1",
+            "name": "spark_utils",
+            "version": "0.2.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "de42f9d57fcec0c8feaecb3b73682bbc871ff77d"
+            }
+        },
+        "0.2.2": {
+            "id": "dbt-labs/spark_utils/0.2.2",
+            "name": "spark_utils",
+            "version": "0.2.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "7fb64216ce1d098153462c3740f35c9e856bfcbe"
+            }
+        },
+        "0.2.3": {
+            "id": "dbt-labs/spark_utils/0.2.3",
+            "name": "spark_utils",
+            "version": "0.2.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "9ce2011450809714383bcea1d1b55921ceec3b57"
+            }
+        },
+        "0.2.4": {
+            "id": "dbt-labs/spark_utils/0.2.4",
+            "name": "spark_utils",
+            "version": "0.2.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<1.1.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "7e9415372c80f17bdbe32752e2370a1d67200156"
+            }
+        },
+        "0.3.0": {
+            "id": "dbt-labs/spark_utils/0.3.0",
+            "name": "spark_utils",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d28faa0ccca9128783be0a56e75674fba461d7d1"
+            }
+        }
+    }
+}

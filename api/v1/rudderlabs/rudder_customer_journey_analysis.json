@@ -1,0 +1,39 @@
+{
+    "name": "rudder_customer_journey_analysis",
+    "namespace": "rudderlabs",
+    "description": "dbt models for dbt-customer-journey-analysis",
+    "latest": "1.0.1",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "1.0.0": {
+            "id": "rudderlabs/rudder_customer_journey_analysis/1.0.0",
+            "name": "rudder_customer_journey_analysis",
+            "version": "1.0.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "2ec188bf0a4178e8c68ff75c951a27fab3c53990"
+            }
+        },
+        "1.0.1": {
+            "id": "rudderlabs/rudder_customer_journey_analysis/1.0.1",
+            "name": "rudder_customer_journey_analysis",
+            "version": "1.0.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6eae5838ed27fca02c8c8a8b884cdaeb0c2fb5f6"
+            }
+        }
+    }
+}

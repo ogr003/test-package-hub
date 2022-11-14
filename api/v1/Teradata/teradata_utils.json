@@ -1,0 +1,62 @@
+{
+    "name": "teradata_utils",
+    "namespace": "Teradata",
+    "description": "dbt models for dbt-teradata-utils",
+    "latest": "0.1.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.0.1": {
+            "id": "Teradata/teradata_utils/v0.0.1",
+            "name": "teradata_utils",
+            "version": "0.0.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "82e76862c279d15817ed9eb79b97f9c5565fc387"
+            }
+        },
+        "0.0.2": {
+            "id": "Teradata/teradata_utils/v0.0.2",
+            "name": "teradata_utils",
+            "version": "0.0.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8f2e485a19c491fffeb2e7433877d193ba7a0554"
+            }
+        },
+        "0.1.0": {
+            "id": "Teradata/teradata_utils/v0.1.0",
+            "name": "teradata_utils",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5a37fa5bdf9b357923839d92d2169a224a65f576"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "dbt_privacy",
+    "namespace": "pvcy",
+    "description": "dbt models for dbt-privacy",
+    "latest": "0.2.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "pvcy/dbt_privacy/v0.1.0",
+            "name": "dbt_privacy",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=1.0.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "aab6d020dadcc071343c85996ad0aa6278372a3a"
+            }
+        },
+        "0.2.0": {
+            "id": "pvcy/dbt_privacy/v0.2.0",
+            "name": "dbt_privacy",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=1.0.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c0237882ba0473fe1beb308e8717270a7f38cc46"
+            }
+        }
+    }
+}

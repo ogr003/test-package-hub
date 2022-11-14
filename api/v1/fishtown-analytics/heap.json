@@ -1,0 +1,207 @@
+{
+    "name": "heap",
+    "namespace": "fishtown-analytics",
+    "description": "dbt models for heap",
+    "latest": "0.2.2",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "fishtown-analytics/heap/0.1.0",
+            "name": "heap",
+            "version": "0.1.0",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "018310fad3c15b373aec930e8a4e755c7691f03b"
+            }
+        },
+        "0.1.1": {
+            "id": "fishtown-analytics/heap/0.1.1",
+            "name": "heap",
+            "version": "0.1.1",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0c2db4d9a568384e068139bdb577f4b942460d4f"
+            }
+        },
+        "0.1.2": {
+            "id": "fishtown-analytics/heap/0.1.2",
+            "name": "heap",
+            "version": "0.1.2",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "7976c38aad823bbb34d037d543a45ba6bdcedd15"
+            }
+        },
+        "0.1.3": {
+            "id": "fishtown-analytics/heap/0.1.3",
+            "name": "heap",
+            "version": "0.1.3",
+            "published_at": "2018-12-03T17:56:02.059739+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3f91cfb8dd3f0bc30221877ed311271827838581"
+            }
+        },
+        "0.1.4": {
+            "id": "fishtown-analytics/heap/0.1.4",
+            "name": "heap",
+            "version": "0.1.4",
+            "published_at": "2019-01-03T15:05:55.422553+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt-utils",
+                    "version": ">=0.1.4"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6a87b4f0e2748db57090881784469972dd8996a0"
+            }
+        },
+        "0.1.5": {
+            "id": "fishtown-analytics/heap/0.1.5",
+            "name": "heap",
+            "version": "0.1.5",
+            "published_at": "2019-01-08T21:37:23.033377+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3f5101a3c86395ca999911b779dc033078f8001d"
+            }
+        },
+        "0.1.6": {
+            "id": "fishtown-analytics/heap/0.1.6",
+            "name": "heap",
+            "version": "0.1.6",
+            "published_at": "2019-01-16T20:00:03.985833+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "21add14ea6652fbbe26125142afd8504ca040b70"
+            }
+        },
+        "0.1.7": {
+            "id": "fishtown-analytics/heap/0.1.7",
+            "name": "heap",
+            "version": "0.1.7",
+            "published_at": "2019-03-25T18:00:02.697837+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "4be5b6102736a3d8f501e095e97dbaae15046cb7"
+            }
+        },
+        "0.1.8": {
+            "id": "fishtown-analytics/heap/0.1.8",
+            "name": "heap",
+            "version": "0.1.8",
+            "published_at": "2019-04-29T18:00:05.852700+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "40c9e40e9d3a4b6b906df418eef274b79a8d487c"
+            }
+        },
+        "0.2.0": {
+            "id": "fishtown-analytics/heap/0.2.0",
+            "name": "heap",
+            "version": "0.2.0",
+            "published_at": "2019-11-12T17:13:50.311653+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "61c3dfb4d083fa86164347ec2fd501261d736328"
+            }
+        },
+        "0.2.1": {
+            "id": "fishtown-analytics/heap/0.2.1",
+            "name": "heap",
+            "version": "0.2.1",
+            "published_at": "2019-11-12T22:00:01.888178+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "27771bc5e7062e009a25708b924020b87ade41f2"
+            }
+        },
+        "0.2.2": {
+            "id": "fishtown-analytics/heap/0.2.2",
+            "name": "heap",
+            "version": "0.2.2",
+            "published_at": "2020-02-20T14:00:04.125286+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1dbd496669afb4a6483f491521783dd158b7e752"
+            }
+        }
+    }
+}

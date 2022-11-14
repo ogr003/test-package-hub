@@ -1,0 +1,101 @@
+{
+    "name": "snowflake_spend",
+    "namespace": "gitlabhq",
+    "description": "dbt models for snowflake_spend",
+    "latest": "1.3.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "gitlabhq/snowflake_spend/v0.1.0",
+            "name": "snowflake_spend",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1175365d172661ca16f6c45ed0264749d88bb422"
+            }
+        },
+        "1.0.0": {
+            "id": "gitlabhq/snowflake_spend/v1.0.0",
+            "name": "snowflake_spend",
+            "version": "1.0.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.25"
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c419cdb6192f27504bc38c300f183b9850271d0f"
+            }
+        },
+        "1.1.0": {
+            "id": "gitlabhq/snowflake_spend/v1.1.0",
+            "name": "snowflake_spend",
+            "version": "1.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.25"
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3e738c74c3b55d62decf990656ac89500b509230"
+            }
+        },
+        "1.2.0": {
+            "id": "gitlabhq/snowflake_spend/v1.2.0",
+            "name": "snowflake_spend",
+            "version": "1.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.25"
+                }
+            ],
+            "require_dbt_version": ">=0.17.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "024c46358a68f73c0221362362dff1af9958d2af"
+            }
+        },
+        "1.3.0": {
+            "id": "gitlabhq/snowflake_spend/v1.3.0",
+            "name": "snowflake_spend",
+            "version": "1.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.1.25"
+                }
+            ],
+            "require_dbt_version": ">=0.17.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "a05b5719b8f8e12eb48099d44091be91129855a7"
+            }
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "airbyte_intercom",
+    "namespace": "cerebriumai",
+    "description": "dbt models for airbyte_dbt_intercom",
+    "latest": "0.1.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "cerebriumai/airbyte_intercom/0.1.0",
+            "name": "airbyte_intercom",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/fivetran_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "calogica/dbt_date",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                },
+                {
+                    "package": "dbt-labs/spark_utils",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0ddd68b91161f04018ce6e910ca19d52c8244dea"
+            }
+        }
+    }
+}

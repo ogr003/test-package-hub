@@ -1,0 +1,89 @@
+{
+    "name": "stripe",
+    "namespace": "fishtown-analytics",
+    "description": "dbt models for stripe",
+    "latest": "0.3.1",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "fishtown-analytics/stripe/0.1.0",
+            "name": "stripe",
+            "version": "0.1.0",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6d826f1089d57ea0a225f0f4b56005f3aac474d4"
+            }
+        },
+        "0.1.1": {
+            "id": "fishtown-analytics/stripe/0.1.1",
+            "name": "stripe",
+            "version": "0.1.1",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "05b74223f5e16ca589e042937d240b3ef08a97ea"
+            }
+        },
+        "0.2.0": {
+            "id": "fishtown-analytics/stripe/0.2.0",
+            "name": "stripe",
+            "version": "0.2.0",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8c28587eca8a971ed3f4750c3f7552a2ed9cc882"
+            }
+        },
+        "0.2.1": {
+            "id": "fishtown-analytics/stripe/0.2.1",
+            "name": "stripe",
+            "version": "0.2.1",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6def9bf341ef3f0fb87724adca143799ccc6276b"
+            }
+        },
+        "0.3.0": {
+            "id": "fishtown-analytics/stripe/0.3.0",
+            "name": "stripe",
+            "version": "0.3.0",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "f99cce9beadcd47d13529cbf9291eccb7c7d0417"
+            }
+        },
+        "0.3.1": {
+            "id": "fishtown-analytics/stripe/0.3.1",
+            "name": "stripe",
+            "version": "0.3.1",
+            "published_at": "2019-06-10T15:00:05.035882+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "15220ecbff7c7f781c85057d1b220c83a9577eae"
+            }
+        }
+    }
+}

@@ -1,0 +1,243 @@
+{
+    "name": "dbt_snow_mask",
+    "namespace": "entechlog",
+    "description": "dbt models for dbt-snow-mask",
+    "latest": "0.2.3",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "entechlog/dbt_snow_mask/0.1.0",
+            "name": "dbt_snow_mask",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1a4041c4b7b47585285a1da531ca53df2693c202"
+            }
+        },
+        "0.1.1": {
+            "id": "entechlog/dbt_snow_mask/0.1.1",
+            "name": "dbt_snow_mask",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "770c7f812729dc24ef02f3a76fc00eb245a37de8"
+            }
+        },
+        "0.1.2": {
+            "id": "entechlog/dbt_snow_mask/0.1.2",
+            "name": "dbt_snow_mask",
+            "version": "0.1.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1aed77227f4598523430610c59d98859296ddf27"
+            }
+        },
+        "0.1.3": {
+            "id": "entechlog/dbt_snow_mask/0.1.3",
+            "name": "dbt_snow_mask",
+            "version": "0.1.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e338f465a8d75285869df0967e92f5434bd525a0"
+            }
+        },
+        "0.1.4": {
+            "id": "entechlog/dbt_snow_mask/0.1.4",
+            "name": "dbt_snow_mask",
+            "version": "0.1.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "154b6e30af6a560f97b331397deab30d7be653da"
+            }
+        },
+        "0.1.5": {
+            "id": "entechlog/dbt_snow_mask/0.1.5",
+            "name": "dbt_snow_mask",
+            "version": "0.1.5",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<=0.22.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e11e8665996576392384c6a43905d0333ed3203f"
+            }
+        },
+        "0.1.6": {
+            "id": "entechlog/dbt_snow_mask/0.1.6",
+            "name": "dbt_snow_mask",
+            "version": "0.1.6",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<1.1.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "230bad8339131942328ed9d6bbf920b6846fe796"
+            }
+        },
+        "0.1.7": {
+            "id": "entechlog/dbt_snow_mask/0.1.7",
+            "name": "dbt_snow_mask",
+            "version": "0.1.7",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<1.1.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "71556e64728c565fb13ed38ba72cb81180127bd3"
+            }
+        },
+        "0.1.8": {
+            "id": "entechlog/dbt_snow_mask/0.1.8",
+            "name": "dbt_snow_mask",
+            "version": "0.1.8",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.18.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "97c6fce73e5ebee0fbd890cd03607301ea041a0c"
+            }
+        },
+        "0.1.9": {
+            "id": "entechlog/dbt_snow_mask/0.1.9",
+            "name": "dbt_snow_mask",
+            "version": "0.1.9",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.18.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1d26a3e7b23a30743d5437d33a7b178436b79e1a"
+            }
+        },
+        "0.2.0": {
+            "id": "entechlog/dbt_snow_mask/0.2.0",
+            "name": "dbt_snow_mask",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.18.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "34440d3b9f4e9df88bfa9575120c45cd40838c93"
+            }
+        },
+        "0.2.1": {
+            "id": "entechlog/dbt_snow_mask/0.2.1",
+            "name": "dbt_snow_mask",
+            "version": "0.2.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.18.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1563d4fdda4473151f0e89409a05c65ae4313b5e"
+            }
+        },
+        "0.2.2": {
+            "id": "entechlog/dbt_snow_mask/0.2.2",
+            "name": "dbt_snow_mask",
+            "version": "0.2.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.18.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "a079ddcf7bc49842a98ff1f799c94d2d3038a4c5"
+            }
+        },
+        "0.2.3": {
+            "id": "entechlog/dbt_snow_mask/0.2.3",
+            "name": "dbt_snow_mask",
+            "version": "0.2.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.18.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3fcd90432246ad3319d4fa4d32fc05ca3589e6b9"
+            }
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "name": "tap_google_analytics",
+    "namespace": "Matatika",
+    "description": "dbt models for dbt-tap-google-analytics",
+    "latest": "0.4.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "Matatika/tap_google_analytics/v0.1.0",
+            "name": "tap_google_analytics",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "04d4afc0fac12f154964bca5b84fd1fd39f3c445"
+            }
+        },
+        "0.1.1": {
+            "id": "Matatika/tap_google_analytics/v0.1.1",
+            "name": "tap_google_analytics",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "de6835cebe3731dad14e7e8a0b34d4157855038a"
+            }
+        },
+        "0.3.0": {
+            "id": "Matatika/tap_google_analytics/v0.3.0",
+            "name": "tap_google_analytics",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5b5ed4b3af2641f15d5311621c8f7bc283bd0f6f"
+            }
+        },
+        "0.4.0": {
+            "id": "Matatika/tap_google_analytics/v0.4.0",
+            "name": "tap_google_analytics",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0f126b016cd30fa6932b16a860b99bae30cedab3"
+            }
+        }
+    }
+}

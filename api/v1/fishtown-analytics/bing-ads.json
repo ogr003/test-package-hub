@@ -1,0 +1,63 @@
+{
+    "name": "bing-ads",
+    "namespace": "fishtown-analytics",
+    "description": "dbt models for bing-ads",
+    "latest": "0.1.2",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.0.1": {
+            "id": "fishtown-analytics/bing-ads/0.0.1",
+            "name": "bing-ads",
+            "version": "0.0.1",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "53c1a7dde3bcb19961c9cff3c778549ab46e460c"
+            }
+        },
+        "0.1.0": {
+            "id": "fishtown-analytics/bing-ads/0.1.0",
+            "name": "bing-ads",
+            "version": "0.1.0",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "43e2876acd8d36190d272d4802cb2e9325b434ca"
+            }
+        },
+        "0.1.1": {
+            "id": "fishtown-analytics/bing-ads/0.1.1",
+            "name": "bing-ads",
+            "version": "0.1.1",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e1d938b343bd1ccdde2dfb5d1ce3cc1fc42fe119"
+            }
+        },
+        "0.1.2": {
+            "id": "fishtown-analytics/bing-ads/0.1.2",
+            "name": "bing-ads",
+            "version": "0.1.2",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5fdd72f72dc187cbb55dd282470c1aa62ebc7dd5"
+            }
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "name": "bing_ads",
+    "namespace": "fishtown-analytics",
+    "description": "dbt models for bing-ads",
+    "latest": "0.1.5",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.0.1": {
+            "id": "fishtown-analytics/bing_ads/0.0.1",
+            "name": "bing_ads",
+            "version": "0.0.1",
+            "published_at": "2019-01-07T16:42:17.147905-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "53c1a7dde3bcb19961c9cff3c778549ab46e460c"
+            }
+        },
+        "0.1.0": {
+            "id": "fishtown-analytics/bing_ads/0.1.0",
+            "name": "bing_ads",
+            "version": "0.1.0",
+            "published_at": "2019-01-07T16:42:17.147905-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "43e2876acd8d36190d272d4802cb2e9325b434ca"
+            }
+        },
+        "0.1.1": {
+            "id": "fishtown-analytics/bing_ads/0.1.1",
+            "name": "bing_ads",
+            "version": "0.1.1",
+            "published_at": "2019-01-07T16:42:17.147905-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e1d938b343bd1ccdde2dfb5d1ce3cc1fc42fe119"
+            }
+        },
+        "0.1.2": {
+            "id": "fishtown-analytics/bing_ads/0.1.2",
+            "name": "bing_ads",
+            "version": "0.1.2",
+            "published_at": "2019-01-07T16:42:17.147905-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5fdd72f72dc187cbb55dd282470c1aa62ebc7dd5"
+            }
+        },
+        "0.1.3": {
+            "id": "fishtown-analytics/bing_ads/0.1.3",
+            "name": "bing_ads",
+            "version": "0.1.3",
+            "published_at": "2019-02-27T22:00:02.915862+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "fc574df7b5fb9c90bf57dfc56469320e071832e7"
+            }
+        },
+        "0.1.4": {
+            "id": "fishtown-analytics/bing_ads/0.1.4",
+            "name": "bing_ads",
+            "version": "0.1.4",
+            "published_at": "2019-03-01T20:00:03.546916+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "604fc44526ee83a28f3b766bdb59965885cfff06"
+            }
+        },
+        "0.1.5": {
+            "id": "fishtown-analytics/bing_ads/0.1.5",
+            "name": "bing_ads",
+            "version": "0.1.5",
+            "published_at": "2019-03-20T14:00:02.890252+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8ec04d5674744d5f63c959fe8f34fda33d8f7813"
+            }
+        }
+    }
+}

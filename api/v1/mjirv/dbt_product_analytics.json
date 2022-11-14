@@ -1,0 +1,157 @@
+{
+    "name": "dbt_product_analytics",
+    "namespace": "mjirv",
+    "description": "dbt models for dbt_product_analytics",
+    "latest": "0.3.1",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.0.1": {
+            "id": "mjirv/dbt_product_analytics/0.0.1",
+            "name": "dbt_product_analytics",
+            "version": "0.0.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6f2f47a1dbb1b029804ed61e4580507634653226"
+            }
+        },
+        "0.0.2": {
+            "id": "mjirv/dbt_product_analytics/0.0.2",
+            "name": "dbt_product_analytics",
+            "version": "0.0.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "2b7cc58ab49fa82d17db9c1c5ed1f5d15936c6d0"
+            }
+        },
+        "0.1.0": {
+            "id": "mjirv/dbt_product_analytics/0.1.0",
+            "name": "dbt_product_analytics",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": "0.8.6"
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b799413d94e7ce753882edf3570a250ff39d63d4"
+            }
+        },
+        "0.1.1": {
+            "id": "mjirv/dbt_product_analytics/0.1.1",
+            "name": "dbt_product_analytics",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": "0.8.6"
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5e76ee2f246eeab6e787b788abb567cabb049ab1"
+            }
+        },
+        "0.2.0": {
+            "id": "mjirv/dbt_product_analytics/0.2.0",
+            "name": "dbt_product_analytics",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": "0.8.6"
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c234d9b428d3c09a8b3c1c26c1dc85ca94517512"
+            }
+        },
+        "0.2.1": {
+            "id": "mjirv/dbt_product_analytics/0.2.1",
+            "name": "dbt_product_analytics",
+            "version": "0.2.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": "0.8.6"
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "586a6cb0bdb81e9cec150552bbdab4c51b5a3910"
+            }
+        },
+        "0.3.0": {
+            "id": "mjirv/dbt_product_analytics/0.3.0",
+            "name": "dbt_product_analytics",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.8.6"
+                    ]
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "cb2b5bb52226f6b58657187bbe738964999cb76e"
+            }
+        },
+        "0.3.1": {
+            "id": "mjirv/dbt_product_analytics/0.3.1",
+            "name": "dbt_product_analytics",
+            "version": "0.3.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.8.6"
+                    ]
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e0df68253987b5d7c0818c836d5c71cd60465278"
+            }
+        }
+    }
+}

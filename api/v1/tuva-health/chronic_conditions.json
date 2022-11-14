@@ -1,0 +1,25 @@
+{
+    "name": "chronic_conditions",
+    "namespace": "tuva-health",
+    "description": "dbt models for chronic_conditions",
+    "latest": "0.1.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "tuva-health/chronic_conditions/0.1.0",
+            "name": "chronic_conditions",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "2ff74a1cd4e43b8550ff4c8cf8bfddb6755822a6"
+            }
+        }
+    }
+}

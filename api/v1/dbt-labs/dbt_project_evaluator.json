@@ -1,0 +1,158 @@
+{
+    "name": "dbt_project_evaluator",
+    "namespace": "dbt-labs",
+    "description": "dbt models for dbt-project-evaluator",
+    "latest": "0.2.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "dbt-labs/dbt_project_evaluator/v0.1.0",
+            "name": "dbt_project_evaluator",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": "0.8.5"
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5f046e42b705f0801dea1260bc8839ff04f27ec1"
+            }
+        },
+        "0.1.1": {
+            "id": "dbt-labs/dbt_project_evaluator/v0.1.1",
+            "name": "dbt_project_evaluator",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": "0.8.6"
+                },
+                {
+                    "package": "dbt-labs/spark_utils",
+                    "version": "0.3.0"
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.1.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ddc1275d361df8ab23d7ce967edcd99016e8f419"
+            }
+        },
+        "0.1.2": {
+            "id": "dbt-labs/dbt_project_evaluator/v0.1.2",
+            "name": "dbt_project_evaluator",
+            "version": "0.1.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": "0.8.6"
+                },
+                {
+                    "package": "dbt-labs/spark_utils",
+                    "version": "0.3.0"
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.1.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "f5369b9d2bb518a060ddfbc81e697f8092fb0f0f"
+            }
+        },
+        "0.1.3": {
+            "id": "dbt-labs/dbt_project_evaluator/v0.1.3",
+            "name": "dbt_project_evaluator",
+            "version": "0.1.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": "0.8.6"
+                },
+                {
+                    "package": "dbt-labs/spark_utils",
+                    "version": "0.3.0"
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.1.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "a7c17b77de0a8e8e04a2466225ff12e7f83ae2e0"
+            }
+        },
+        "0.1.4": {
+            "id": "dbt-labs/dbt_project_evaluator/v0.1.4",
+            "name": "dbt_project_evaluator",
+            "version": "0.1.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.8.6",
+                        "<2.0.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.2.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "84d09097afaf395a543cb59ea224f82798d63dc9"
+            }
+        },
+        "0.2.0": {
+            "id": "dbt-labs/dbt_project_evaluator/v0.2.0",
+            "name": "dbt_project_evaluator",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.8.6",
+                        "<2.0.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.2.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "574d84afd27dc95d69ba89c96210bb0a50f0d7ef"
+            }
+        }
+    }
+}

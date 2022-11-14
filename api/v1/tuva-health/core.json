@@ -1,0 +1,151 @@
+{
+    "name": "core",
+    "namespace": "tuva-health",
+    "description": "dbt models for tuva",
+    "latest": "0.1.9",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "tuva-health/core/0.1.0",
+            "name": "core",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8f8e930b8ae3c9863c63cf69f383d47a27009e00"
+            }
+        },
+        "0.1.1": {
+            "id": "tuva-health/core/0.1.1",
+            "name": "core",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0e98bed6ae1c069d40a6bb0f5ae00f563fd83819"
+            }
+        },
+        "0.1.2": {
+            "id": "tuva-health/core/0.1.2",
+            "name": "core",
+            "version": "0.1.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "617e7c2835b9b54eff995efc9943f939ad1da7a9"
+            }
+        },
+        "0.1.3": {
+            "id": "tuva-health/core/0.1.3",
+            "name": "core",
+            "version": "0.1.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6463f954907cc4d469a637a3274fd29465095a58"
+            }
+        },
+        "0.1.4": {
+            "id": "tuva-health/core/0.1.4",
+            "name": "core",
+            "version": "0.1.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "031c597fb298957fb7359d6dbd4e3c5ff0bc4e12"
+            }
+        },
+        "0.1.5": {
+            "id": "tuva-health/core/0.1.5",
+            "name": "core",
+            "version": "0.1.5",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d29fcbe842ad5bd9a1e717cc3a8dfe63f63e3c8b"
+            }
+        },
+        "0.1.6": {
+            "id": "tuva-health/core/0.1.6",
+            "name": "core",
+            "version": "0.1.6",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1b9f5d1f9ccbe1b2f577e06967126bca49c1034a"
+            }
+        },
+        "0.1.7": {
+            "id": "tuva-health/core/0.1.7",
+            "name": "core",
+            "version": "0.1.7",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5da3b6208d49bb453218ba96762a0ce51b456b90"
+            }
+        },
+        "0.1.8": {
+            "id": "tuva-health/core/0.1.8",
+            "name": "core",
+            "version": "0.1.8",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "2a8b1fa9709abe46c99e417a003827e0b8cccd11"
+            }
+        },
+        "0.1.9": {
+            "id": "tuva-health/core/0.1.9",
+            "name": "core",
+            "version": "0.1.9",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e6bd94dd0991093ff389d247622788c52db37bb7"
+            }
+        }
+    }
+}

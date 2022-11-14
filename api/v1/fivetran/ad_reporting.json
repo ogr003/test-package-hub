@@ -1,0 +1,1180 @@
+{
+    "name": "ad_reporting",
+    "namespace": "fivetran",
+    "description": "dbt models for dbt_ad_reporting",
+    "latest": "1.0.1",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "fivetran/ad_reporting/v0.1.0",
+            "name": "ad_reporting",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/pinterest",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/microsoft_ads",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/linkedin",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/google_ads",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/twitter_ads",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/facebook_ads",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1754f37be1ff0405f42bd6937f7e32619fad010e"
+            }
+        },
+        "0.1.1": {
+            "id": "fivetran/ad_reporting/v0.1.1",
+            "name": "ad_reporting",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/pinterest",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/microsoft_ads",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/linkedin",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/google_ads",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/twitter_ads",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/facebook_ads",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0b330a1b9a7380d08def2ff5355b46d717d1b6c1"
+            }
+        },
+        "0.2.0": {
+            "id": "fivetran/ad_reporting/v0.2.0",
+            "name": "ad_reporting",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/pinterest",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/microsoft_ads",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/linkedin",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/google_ads",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/twitter_ads",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/facebook_ads",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/snapchat_ads",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ee7d242307d57059ae37b151f7b8456dd0a3f86e"
+            }
+        },
+        "0.2.1": {
+            "id": "fivetran/ad_reporting/v0.2.1",
+            "name": "ad_reporting",
+            "version": "0.2.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/pinterest",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/microsoft_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/linkedin",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/google_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/twitter_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/facebook_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/snapchat_ads",
+                    "version": [
+                        ">=0.1.1",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.19.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ccda903ae50562564b3354e25b4ec11da35a88a1"
+            }
+        },
+        "0.2.2": {
+            "id": "fivetran/ad_reporting/v0.2.2",
+            "name": "ad_reporting",
+            "version": "0.2.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/pinterest",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/microsoft_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/linkedin",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/google_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/twitter_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/facebook_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/snapchat_ads",
+                    "version": [
+                        ">=0.1.1",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.19.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "a2e1f2d9375b76df2620a13792617170bbe595d6"
+            }
+        },
+        "0.2.3": {
+            "id": "fivetran/ad_reporting/v0.2.3",
+            "name": "ad_reporting",
+            "version": "0.2.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/pinterest",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/microsoft_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/linkedin",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/google_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/twitter_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/facebook_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/snapchat_ads",
+                    "version": [
+                        ">=0.1.1",
+                        "<0.2.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.19.0",
+                "<0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "4ac653bb35083e2248ff4d14357e91cda151575d"
+            }
+        },
+        "0.3.0": {
+            "id": "fivetran/ad_reporting/v0.3.0",
+            "name": "ad_reporting",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/pinterest",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/microsoft_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/linkedin",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/google_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/twitter_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/facebook_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/snapchat_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "866b65a19faaef09ffbbff5106ae7fa8bc362fa6"
+            }
+        },
+        "0.4.0": {
+            "id": "fivetran/ad_reporting/v0.4.0",
+            "name": "ad_reporting",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/pinterest",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/microsoft_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/linkedin",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/google_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/twitter_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/facebook_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/snapchat_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8fbc5e81e73d6d0e8903ea7007ca6e5a2910c5a1"
+            }
+        },
+        "0.4.1": {
+            "id": "fivetran/ad_reporting/v0.4.1",
+            "name": "ad_reporting",
+            "version": "0.4.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/pinterest",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/microsoft_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/linkedin",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/google_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/twitter_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/facebook_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/snapchat_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "7d37fcae4030f91a1c6ca5a9fac65614b6678467"
+            }
+        },
+        "0.5.0": {
+            "id": "fivetran/ad_reporting/v0.5.0",
+            "name": "ad_reporting",
+            "version": "0.5.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/pinterest",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/microsoft_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/linkedin",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/google_ads",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/twitter_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/facebook_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/snapchat_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b1e05b0b83d663ea44f493a1358b936f122fd12b"
+            }
+        },
+        "0.5.1": {
+            "id": "fivetran/ad_reporting/v0.5.1",
+            "name": "ad_reporting",
+            "version": "0.5.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/pinterest",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/microsoft_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/linkedin",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/google_ads",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/twitter_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/facebook_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/snapchat_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0e54ba9c772b9b4212ec9b072038ee57e7ed3312"
+            }
+        },
+        "0.6.0-b1": {
+            "id": "fivetran/ad_reporting/v0.6.0-b1",
+            "name": "ad_reporting",
+            "version": "0.6.0-b1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/pinterest",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/microsoft_ads",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/linkedin",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/google_ads",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/twitter_ads",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/facebook_ads",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/snapchat_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "20e8d197c0b1e68f06d3d611a7fcfc36d00035c4"
+            }
+        },
+        "0.6.0": {
+            "id": "fivetran/ad_reporting/v0.6.0",
+            "name": "ad_reporting",
+            "version": "0.6.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/pinterest",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/microsoft_ads",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/linkedin",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/google_ads",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/tiktok_ads",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/twitter_ads",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/facebook_ads",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/snapchat_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "4bf01c67299965021f181ef4890638377343535f"
+            }
+        },
+        "0.7.0": {
+            "id": "fivetran/ad_reporting/v0.7.0",
+            "name": "ad_reporting",
+            "version": "0.7.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/pinterest",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/microsoft_ads",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/linkedin",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/google_ads",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/tiktok_ads",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/twitter_ads",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/facebook_ads",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/snapchat_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "904af842c7761fe30cff7bcac5c0ce7feab1b83c"
+            }
+        },
+        "0.8.0": {
+            "id": "fivetran/ad_reporting/v0.8.0",
+            "name": "ad_reporting",
+            "version": "0.8.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/pinterest",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/microsoft_ads",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/linkedin",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/google_ads",
+                    "version": [
+                        ">=0.7.0",
+                        "<0.8.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/tiktok_ads",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/twitter_ads",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/facebook_ads",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/snapchat_ads",
+                    "version": [
+                        ">=0.3.0",
+                        "<0.4.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "271ec5bd2b3e04b6b73888de98b5269eb81ed0fc"
+            }
+        },
+        "1.0.0": {
+            "id": "fivetran/ad_reporting/v1.0.0",
+            "name": "ad_reporting",
+            "version": "1.0.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/apple_search_ads",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/snapchat_ads",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/facebook_ads",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/google_ads",
+                    "version": [
+                        ">=0.8.0",
+                        "<0.9.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/pinterest",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/linkedin",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/microsoft_ads",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/tiktok_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/twitter_ads",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d2f091a73fc635f3b2fb76e276123063e4404c6d"
+            }
+        },
+        "1.0.1": {
+            "id": "fivetran/ad_reporting/v1.0.1",
+            "name": "ad_reporting",
+            "version": "1.0.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fivetran/apple_search_ads",
+                    "version": [
+                        ">=0.1.0",
+                        "<0.2.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/snapchat_ads",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.5.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/facebook_ads",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/google_ads",
+                    "version": [
+                        ">=0.8.0",
+                        "<0.9.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/pinterest",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/linkedin",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/microsoft_ads",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/tiktok_ads",
+                    "version": [
+                        ">=0.2.0",
+                        "<0.3.0"
+                    ]
+                },
+                {
+                    "package": "fivetran/twitter_ads",
+                    "version": [
+                        ">=0.5.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0dea98292e38c3b1239b04141a5a068c52667cab"
+            }
+        }
+    }
+}

@@ -1,0 +1,296 @@
+{
+    "name": "dbt_snow_utils",
+    "namespace": "entechlog",
+    "description": "dbt models for dbt-snow-utils",
+    "latest": "0.2.4",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "entechlog/dbt_snow_utils/0.1.0",
+            "name": "dbt_snow_utils",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.7.0"
+                }
+            ],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "78256d3579165cf11e96de821f056ddb0adceef9"
+            }
+        },
+        "0.1.1": {
+            "id": "entechlog/dbt_snow_utils/0.1.1",
+            "name": "dbt_snow_utils",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.7.0"
+                }
+            ],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ae01ffb01eaebb393ac078a1c2493a50a06d439f"
+            }
+        },
+        "0.1.2": {
+            "id": "entechlog/dbt_snow_utils/0.1.2",
+            "name": "dbt_snow_utils",
+            "version": "0.1.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.7.0"
+                }
+            ],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "fc58f27685ccb14e6fd1cf6b903307a34871b80e"
+            }
+        },
+        "0.1.3": {
+            "id": "entechlog/dbt_snow_utils/0.1.3",
+            "name": "dbt_snow_utils",
+            "version": "0.1.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.7.0"
+                }
+            ],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "f756cf515d1ee55a6150d76697bc3845e8da621c"
+            }
+        },
+        "0.1.4": {
+            "id": "entechlog/dbt_snow_utils/0.1.4",
+            "name": "dbt_snow_utils",
+            "version": "0.1.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.7.0"
+                }
+            ],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1d1369b88cae26f2188e3cb541f8ce2f06c7776d"
+            }
+        },
+        "0.1.5": {
+            "id": "entechlog/dbt_snow_utils/0.1.5",
+            "name": "dbt_snow_utils",
+            "version": "0.1.5",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.7.0"
+                }
+            ],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "68d923b634141bfb8ca1df87c795b1f0cf6f1151"
+            }
+        },
+        "0.1.6": {
+            "id": "entechlog/dbt_snow_utils/0.1.6",
+            "name": "dbt_snow_utils",
+            "version": "0.1.6",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.7.0"
+                }
+            ],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "7b5b3f9ec4d9602f9512a8544d94859b6dd6fcec"
+            }
+        },
+        "0.1.7": {
+            "id": "entechlog/dbt_snow_utils/0.1.7",
+            "name": "dbt_snow_utils",
+            "version": "0.1.7",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.7.0"
+                }
+            ],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c2b0914ba27b0c993a35f423d460cda27a40db8d"
+            }
+        },
+        "0.1.8": {
+            "id": "entechlog/dbt_snow_utils/0.1.8",
+            "name": "dbt_snow_utils",
+            "version": "0.1.8",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.7.0"
+                }
+            ],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "cc71bce088b9cf88b3d50487353108af24a423d0"
+            }
+        },
+        "0.1.9": {
+            "id": "entechlog/dbt_snow_utils/0.1.9",
+            "name": "dbt_snow_utils",
+            "version": "0.1.9",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.7.0"
+                }
+            ],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "55a2d88001c190dab61faa7ea865563fac6d1188"
+            }
+        },
+        "0.2.0": {
+            "id": "entechlog/dbt_snow_utils/0.2.0",
+            "name": "dbt_snow_utils",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.7.0"
+                }
+            ],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "bc3b35502e1e1769e6b545976c3d1ad29ebab980"
+            }
+        },
+        "0.2.1": {
+            "id": "entechlog/dbt_snow_utils/0.2.1",
+            "name": "dbt_snow_utils",
+            "version": "0.2.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.7.0"
+                }
+            ],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "bcf3571f5350b2824f0d9576b9db705cdd36cee7"
+            }
+        },
+        "0.2.2": {
+            "id": "entechlog/dbt_snow_utils/0.2.2",
+            "name": "dbt_snow_utils",
+            "version": "0.2.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.7.0"
+                }
+            ],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "cf99e00573c1c6222e9285f15efdfc11c43e023a"
+            }
+        },
+        "0.2.3": {
+            "id": "entechlog/dbt_snow_utils/0.2.3",
+            "name": "dbt_snow_utils",
+            "version": "0.2.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.7.0"
+                }
+            ],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "daa722951562764eecae7ba9dc2f56d461417acc"
+            }
+        },
+        "0.2.4": {
+            "id": "entechlog/dbt_snow_utils/0.2.4",
+            "name": "dbt_snow_utils",
+            "version": "0.2.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.7.0"
+                }
+            ],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "227caf729ae6c46a353779e94eda90f75941c0e7"
+            }
+        }
+    }
+}

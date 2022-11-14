@@ -1,0 +1,51 @@
+{
+    "name": "elementary_data_reliability",
+    "namespace": "elementary-data",
+    "description": "dbt models for dbt-data-reliability",
+    "latest": "0.1.1",
+    "redirectname": "elementary",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "elementary-data/elementary_data_reliability/0.1.0",
+            "name": "elementary_data_reliability",
+            "version": "0.1.0",
+            "published_at": "2022-01-27T06:01:09.603460+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": "0.7.6"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "17577b797a6bd8f787a5d7d9d529213a6a73ace1"
+            }
+        },
+        "0.1.1": {
+            "id": "elementary-data/elementary_data_reliability/0.1.1",
+            "name": "elementary_data_reliability",
+            "version": "0.1.1",
+            "published_at": "2022-01-28T12:00:23.352912+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.8.0",
+                        "<0.9.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "af9fb42c9e88b427c8859c0a2a6cac5d86cee59c"
+            }
+        }
+    }
+}

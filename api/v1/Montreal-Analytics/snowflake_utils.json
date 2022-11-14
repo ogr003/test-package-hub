@@ -1,0 +1,163 @@
+{
+    "name": "snowflake_utils",
+    "namespace": "Montreal-Analytics",
+    "description": "dbt models for dbt-snowflake-utils",
+    "latest": "0.4.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "Montreal-Analytics/snowflake_utils/0.1.0",
+            "name": "snowflake_utils",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.25"
+                }
+            ],
+            "require_dbt_version": ">=0.15.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "2d01af0aa6d70c10df129e89a3cba186a5626a0b"
+            }
+        },
+        "0.1.1": {
+            "id": "Montreal-Analytics/snowflake_utils/0.1.1",
+            "name": "snowflake_utils",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.25"
+                }
+            ],
+            "require_dbt_version": ">=0.15.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "7a33dc2950df48184e7a1815efc22372428eded0"
+            }
+        },
+        "0.1.2": {
+            "id": "Montreal-Analytics/snowflake_utils/0.1.2",
+            "name": "snowflake_utils",
+            "version": "0.1.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.25"
+                }
+            ],
+            "require_dbt_version": ">=0.15.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "4dbb5942f7fd58bc68825b895b6df138e2b5e14f"
+            }
+        },
+        "0.1.3": {
+            "id": "Montreal-Analytics/snowflake_utils/0.1.3",
+            "name": "snowflake_utils",
+            "version": "0.1.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.25"
+                }
+            ],
+            "require_dbt_version": ">=0.15.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "f6f567a8ca397c8cbfc0d071b1c5aa7b383bef06"
+            }
+        },
+        "0.2.0": {
+            "id": "Montreal-Analytics/snowflake_utils/0.2.0",
+            "name": "snowflake_utils",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.25"
+                }
+            ],
+            "require_dbt_version": ">=0.17.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d22af236b101b6078268993b8fe5882f509ac34e"
+            }
+        },
+        "0.2.1": {
+            "id": "Montreal-Analytics/snowflake_utils/0.2.1",
+            "name": "snowflake_utils",
+            "version": "0.2.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.1.25"
+                }
+            ],
+            "require_dbt_version": ">=0.17.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "872c447cf0b9ab401e3933da817819201fead08f"
+            }
+        },
+        "0.3.0": {
+            "id": "Montreal-Analytics/snowflake_utils/0.3.0",
+            "name": "snowflake_utils",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.7.0"
+                }
+            ],
+            "require_dbt_version": ">=0.17.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "83eef05678c509cec14797c7a7ef10711acf30fd"
+            }
+        },
+        "0.4.0": {
+            "id": "Montreal-Analytics/snowflake_utils/0.4.0",
+            "name": "snowflake_utils",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.7.0"
+                }
+            ],
+            "require_dbt_version": ">=0.17.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "4e447b0ad645b98047804e97fc4e7f6d0347daa8"
+            }
+        }
+    }
+}

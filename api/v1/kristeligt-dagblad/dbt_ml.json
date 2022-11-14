@@ -1,0 +1,195 @@
+{
+    "name": "dbt_ml",
+    "namespace": "kristeligt-dagblad",
+    "description": "dbt models for dbt_ml",
+    "latest": "0.5.2",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "kristeligt-dagblad/dbt_ml/v0.1.0",
+            "name": "dbt_ml",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [
+                ">=0.16.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "84f0e6eee959d9846402c56bc96e71bf3304d753"
+            }
+        },
+        "0.2.0": {
+            "id": "kristeligt-dagblad/dbt_ml/v0.2.0",
+            "name": "dbt_ml",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.10"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.16.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b61953207e0cefbb7d311fda54d954a96daac9e2"
+            }
+        },
+        "0.3.0": {
+            "id": "kristeligt-dagblad/dbt_ml/v0.3.0",
+            "name": "dbt_ml",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.10"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.17.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b691b15a5d9974ed9a0815ea3f258b606a45bf3f"
+            }
+        },
+        "0.3.1": {
+            "id": "kristeligt-dagblad/dbt_ml/v0.3.1",
+            "name": "dbt_ml",
+            "version": "0.3.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.10"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.17.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "cb7fffd5e701b9d59e895f811cfd3254a7e74a2e"
+            }
+        },
+        "0.3.2": {
+            "id": "kristeligt-dagblad/dbt_ml/v0.3.2",
+            "name": "dbt_ml",
+            "version": "0.3.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.10"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.17.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "84bcf714785b44dbb631aed2e464d51d7c2b461f"
+            }
+        },
+        "0.4.0": {
+            "id": "kristeligt-dagblad/dbt_ml/v0.4.0",
+            "name": "dbt_ml",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.10"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.17.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "001281ff02d46bd999f2c5458185b69d5cedfb90"
+            }
+        },
+        "0.5.0": {
+            "id": "kristeligt-dagblad/dbt_ml/v0.5.0",
+            "name": "dbt_ml",
+            "version": "0.5.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.1.10"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e32b22c1ce52b94f1da18b62f8d92e0bbba07aa3"
+            }
+        },
+        "0.5.1": {
+            "id": "kristeligt-dagblad/dbt_ml/v0.5.1",
+            "name": "dbt_ml",
+            "version": "0.5.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.1.10"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "57a65d40ccbdbbd574b3ba90619f5623a855d8aa"
+            }
+        },
+        "0.5.2": {
+            "id": "kristeligt-dagblad/dbt_ml/v0.5.2",
+            "name": "dbt_ml",
+            "version": "0.5.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": ">=0.1.10"
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "bbd38e7e3ef742ac5b70fd1ead57dc8480632602"
+            }
+        }
+    }
+}

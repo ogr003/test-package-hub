@@ -1,0 +1,55 @@
+{
+    "name": "jitsu",
+    "namespace": "jitsucom",
+    "description": "dbt models for dbt-jitsu",
+    "latest": "0.1.1",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "jitsucom/jitsu/v0.1.0",
+            "name": "jitsu",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.8.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.20.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c71000b449665a863334fe49a9097b1365d673cd"
+            }
+        },
+        "0.1.1": {
+            "id": "jitsucom/jitsu/0.1.1",
+            "name": "jitsu",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.8.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": ">=0.20.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "79881013bb2b0e1546f2208210d9f4f00adf5ebc"
+            }
+        }
+    }
+}

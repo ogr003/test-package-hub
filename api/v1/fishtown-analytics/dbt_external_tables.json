@@ -1,0 +1,262 @@
+{
+    "name": "dbt_external_tables",
+    "namespace": "fishtown-analytics",
+    "description": "dbt models for dbt-external-tables",
+    "latest": "0.6.3",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "redirectnamespace": "dbt-labs",
+    "versions": {
+        "0.1.0": {
+            "id": "fishtown-analytics/dbt_external_tables/0.1.0",
+            "name": "dbt_external_tables",
+            "version": "0.1.0",
+            "published_at": "2019-11-27T15:10:43.224028+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8de91e3c6c0ce4a79c3fcdf574c44feeadd4e30e"
+            }
+        },
+        "0.1.1": {
+            "id": "fishtown-analytics/dbt_external_tables/0.1.1",
+            "name": "dbt_external_tables",
+            "version": "0.1.1",
+            "published_at": "2020-01-21T19:00:04.043858+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ef26c845707f7cc04ed7a84455d1ebe105e6abdd"
+            }
+        },
+        "0.1.2": {
+            "id": "fishtown-analytics/dbt_external_tables/0.1.2",
+            "name": "dbt_external_tables",
+            "version": "0.1.2",
+            "published_at": "2020-03-30T17:00:05.666465+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "cf9ad60edc2de50191a42e8999f2422c5769300e"
+            }
+        },
+        "0.1.3": {
+            "id": "fishtown-analytics/dbt_external_tables/0.1.3",
+            "name": "dbt_external_tables",
+            "version": "0.1.3",
+            "published_at": "2020-04-01T22:00:05.330089+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "eec1365fd8191bb34c2aac024f518304d43c5c1c"
+            }
+        },
+        "0.2.0": {
+            "id": "fishtown-analytics/dbt_external_tables/0.2.0",
+            "name": "dbt_external_tables",
+            "version": "0.2.0",
+            "published_at": "2020-05-07T21:00:05.974853+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.25"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "880bfc314df3faf0dece66a39ddbf479cd0aafba"
+            }
+        },
+        "0.3.0": {
+            "id": "fishtown-analytics/dbt_external_tables/0.3.0",
+            "name": "dbt_external_tables",
+            "version": "0.3.0",
+            "published_at": "2020-06-10T19:00:52.719156+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.25"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1961a8117d64cc3d063d6a0cf678aa059e74d40b"
+            }
+        },
+        "0.3.1": {
+            "id": "fishtown-analytics/dbt_external_tables/0.3.1",
+            "name": "dbt_external_tables",
+            "version": "0.3.1",
+            "published_at": "2020-07-07T20:02:26.245705+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.25"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "856ccc6dc4d9899ea41e05ad00516d7a5989c43e"
+            }
+        },
+        "0.3.2": {
+            "id": "fishtown-analytics/dbt_external_tables/0.3.2",
+            "name": "dbt_external_tables",
+            "version": "0.3.2",
+            "published_at": "2020-07-29T17:01:03.298523+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.25"
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "14a4b67bbb29a31ef08fc2e4b0f7dc112deeb22d"
+            }
+        },
+        "0.4.0": {
+            "id": "fishtown-analytics/dbt_external_tables/0.4.0",
+            "name": "dbt_external_tables",
+            "version": "0.4.0",
+            "published_at": "2020-07-31T19:01:52.747001+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.4.0",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "34ea245587e15421b5482e94810f30315299bbbc"
+            }
+        },
+        "0.5.0": {
+            "id": "fishtown-analytics/dbt_external_tables/0.5.0",
+            "name": "dbt_external_tables",
+            "version": "0.5.0",
+            "published_at": "2020-09-04T21:01:57.323495+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "3b751a896f61bf9602973063de9c1b04b964271b"
+            }
+        },
+        "0.6.0": {
+            "id": "fishtown-analytics/dbt_external_tables/0.6.0",
+            "name": "dbt_external_tables",
+            "version": "0.6.0",
+            "published_at": "2020-12-03T20:02:43.686607+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "4c62ba77570a40b34eb115b9b02fe830a2509c84"
+            }
+        },
+        "0.6.1": {
+            "id": "fishtown-analytics/dbt_external_tables/0.6.1",
+            "name": "dbt_external_tables",
+            "version": "0.6.1",
+            "published_at": "2021-01-06T12:02:14.814255+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "867c30221b19fb1613ca19bf597a162dc08b17ee"
+            }
+        },
+        "0.6.2": {
+            "id": "fishtown-analytics/dbt_external_tables/0.6.2",
+            "name": "dbt_external_tables",
+            "version": "0.6.2",
+            "published_at": "2021-01-28T20:01:30.800112+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "56b3665be60d25d419b071bcd44b396b25497281"
+            }
+        },
+        "0.6.3": {
+            "id": "fishtown-analytics/dbt_external_tables/0.6.3",
+            "name": "dbt_external_tables",
+            "version": "0.6.3",
+            "published_at": "2021-05-25T05:03:22.853109+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "a93d02fd466939e48693b318373009ecdccab3eb"
+            }
+        }
+    }
+}

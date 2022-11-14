@@ -1,0 +1,129 @@
+{
+    "name": "tuva",
+    "namespace": "tuva-health",
+    "description": "dbt models for tuva",
+    "latest": "0.1.8",
+    "redirectname": "core",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "tuva-health/tuva/0.1.0",
+            "name": "tuva",
+            "version": "0.1.0",
+            "published_at": "2021-12-20T07:06:24.190583+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5469e4dad0beaa411fd38510c5e193fd5e83b4a9"
+            }
+        },
+        "0.1.1": {
+            "id": "tuva-health/tuva/0.1.1",
+            "name": "tuva",
+            "version": "0.1.1",
+            "published_at": "2021-12-20T07:06:24.190583+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1a224998cbcb109ae7488f52f87c998b0d1909ac"
+            }
+        },
+        "0.1.2": {
+            "id": "tuva-health/tuva/0.1.2",
+            "name": "tuva",
+            "version": "0.1.2",
+            "published_at": "2021-12-20T07:06:24.190583+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d79213ed3e3fcb2b5727b96d7e282757dadc9681"
+            }
+        },
+        "0.1.3": {
+            "id": "tuva-health/tuva/0.1.3",
+            "name": "tuva",
+            "version": "0.1.3",
+            "published_at": "2022-01-28T21:01:15.751068+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d11c7dd1e0872f1f0e582fb80738cdb1759ab46e"
+            }
+        },
+        "0.1.4": {
+            "id": "tuva-health/tuva/0.1.4",
+            "name": "tuva",
+            "version": "0.1.4",
+            "published_at": "2022-01-29T17:01:26.078143+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "6fa7db724d6052536b3c815f6abd191a92385503"
+            }
+        },
+        "0.1.5": {
+            "id": "tuva-health/tuva/0.1.5",
+            "name": "tuva",
+            "version": "0.1.5",
+            "published_at": "2022-02-23T23:00:54.905418+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "99acc6e1d8ac82c06bc23bf5ce11c65a2b0b60f2"
+            }
+        },
+        "0.1.6": {
+            "id": "tuva-health/tuva/0.1.6",
+            "name": "tuva",
+            "version": "0.1.6",
+            "published_at": "2022-02-23T23:00:54.905418+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "f3335633f75ec889c1b8fe53965b0f0442d3151e"
+            }
+        },
+        "0.1.7": {
+            "id": "tuva-health/tuva/0.1.7",
+            "name": "tuva",
+            "version": "0.1.7",
+            "published_at": "2022-02-25T19:01:11.865091+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "75b6adcd3b61ba068a79b3412fc3b5db65a74cdf"
+            }
+        },
+        "0.1.8": {
+            "id": "tuva-health/tuva/0.1.8",
+            "name": "tuva",
+            "version": "0.1.8",
+            "published_at": "2022-03-07T22:01:13.902525+00:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "457944c13beaaf1eed8bf0f07fbaf03a57238f3a"
+            }
+        }
+    }
+}

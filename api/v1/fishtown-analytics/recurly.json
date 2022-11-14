@@ -1,0 +1,24 @@
+{
+    "name": "recurly",
+    "namespace": "fishtown-analytics",
+    "description": "dbt models for recurly",
+    "latest": "0.1.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "fishtown-analytics/recurly/0.1.0",
+            "name": "recurly",
+            "version": "0.1.0",
+            "published_at": "2018-11-28T16:16:06.455784-05:00",
+            "packages": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c44b7dc4191e9a5051a58a51869f51f43c21565e"
+            }
+        }
+    }
+}

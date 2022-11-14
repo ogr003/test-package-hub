@@ -1,0 +1,623 @@
+{
+    "name": "facebook_ads",
+    "namespace": "dbt-labs",
+    "description": "dbt models for facebook-ads",
+    "latest": "0.8.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.2.0": {
+            "id": "dbt-labs/facebook_ads/0.2.0",
+            "name": "facebook_ads",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c47bd38be26836b4cca143c9dcabb60ac90e1fc2"
+            }
+        },
+        "0.2.1": {
+            "id": "dbt-labs/facebook_ads/0.2.1",
+            "name": "facebook_ads",
+            "version": "0.2.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "00a39d1a497f15ca95fb868501d2f05843e5d756"
+            }
+        },
+        "0.2.2": {
+            "id": "dbt-labs/facebook_ads/0.2.2",
+            "name": "facebook_ads",
+            "version": "0.2.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e6cd37aa753764fe68373772f0a968f6e1ff3dfc"
+            }
+        },
+        "0.2.3": {
+            "id": "dbt-labs/facebook_ads/0.2.3",
+            "name": "facebook_ads",
+            "version": "0.2.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d143f378fd7a6ce4c072a53efe94b5cd7e549bdf"
+            }
+        },
+        "0.2.4": {
+            "id": "dbt-labs/facebook_ads/0.2.4",
+            "name": "facebook_ads",
+            "version": "0.2.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5a60183bb5e5dfd51da0428e902e17740726a236"
+            }
+        },
+        "0.2.5": {
+            "id": "dbt-labs/facebook_ads/0.2.5",
+            "name": "facebook_ads",
+            "version": "0.2.5",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "f646aa8d4751008b3ea2e820d4e06d1d0d999692"
+            }
+        },
+        "0.2.6": {
+            "id": "dbt-labs/facebook_ads/0.2.6",
+            "name": "facebook_ads",
+            "version": "0.2.6",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e29b91a4efec90188d49d0b34e2617f0fd354d65"
+            }
+        },
+        "0.2.7": {
+            "id": "dbt-labs/facebook_ads/0.2.7",
+            "name": "facebook_ads",
+            "version": "0.2.7",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "79932bb492e57e5a3560714058d1c0fc9b7776e1"
+            }
+        },
+        "0.2.8": {
+            "id": "dbt-labs/facebook_ads/0.2.8",
+            "name": "facebook_ads",
+            "version": "0.2.8",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "9a7eaef941c9d2b97f409458225044bf403f88f5"
+            }
+        },
+        "0.2.9": {
+            "id": "dbt-labs/facebook_ads/0.2.9",
+            "name": "facebook_ads",
+            "version": "0.2.9",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5484909a36817811d797633cab57170a831271f4"
+            }
+        },
+        "0.3.0": {
+            "id": "dbt-labs/facebook_ads/0.3.0",
+            "name": "facebook_ads",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "abdb2b820b23696ac901ce01d5df5a7748ed5b1b"
+            }
+        },
+        "0.3.1": {
+            "id": "dbt-labs/facebook_ads/0.3.1",
+            "name": "facebook_ads",
+            "version": "0.3.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "74f0638c40b341cda43cd343e9cb8add2ec2c7a7"
+            }
+        },
+        "0.3.2": {
+            "id": "dbt-labs/facebook_ads/0.3.2",
+            "name": "facebook_ads",
+            "version": "0.3.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "48bfa2308b3f6bd57acc79baf9d95123b01be653"
+            }
+        },
+        "0.3.3": {
+            "id": "dbt-labs/facebook_ads/0.3.3",
+            "name": "facebook_ads",
+            "version": "0.3.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "408fb0ce73252db99e0c7d87365f8782c933fca7"
+            }
+        },
+        "0.3.4": {
+            "id": "dbt-labs/facebook_ads/0.3.4",
+            "name": "facebook_ads",
+            "version": "0.3.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "22f746a50138d58e4e2a20b72515658577c8176c"
+            }
+        },
+        "0.3.5": {
+            "id": "dbt-labs/facebook_ads/0.3.5",
+            "name": "facebook_ads",
+            "version": "0.3.5",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "09d78ee449b59fb6c0df23e26cd7ce322c43f871"
+            }
+        },
+        "0.3.6": {
+            "id": "dbt-labs/facebook_ads/0.3.6",
+            "name": "facebook_ads",
+            "version": "0.3.6",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "41935f2c3fd2b2221604f37cafd2364ab5205682"
+            }
+        },
+        "0.4.0": {
+            "id": "dbt-labs/facebook_ads/0.4.0",
+            "name": "facebook_ads",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "23b2bc23678ac90fb9ceb76710e30887c5ab6609"
+            }
+        },
+        "0.4.1": {
+            "id": "dbt-labs/facebook_ads/0.4.1",
+            "name": "facebook_ads",
+            "version": "0.4.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "de90a9dca2cfadfa0155ba6da959f0c515e18d8e"
+            }
+        },
+        "0.4.2": {
+            "id": "dbt-labs/facebook_ads/0.4.2",
+            "name": "facebook_ads",
+            "version": "0.4.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "c333ba5d0615571649257ae908f6207336581b10"
+            }
+        },
+        "0.4.3": {
+            "id": "dbt-labs/facebook_ads/0.4.3",
+            "name": "facebook_ads",
+            "version": "0.4.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "a89fa56470bb794ea762202cde76efb63176afa0"
+            }
+        },
+        "0.4.4": {
+            "id": "dbt-labs/facebook_ads/0.4.4",
+            "name": "facebook_ads",
+            "version": "0.4.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "51b8e80a8ec7c5f0588a7bbc68247e501bcf9089"
+            }
+        },
+        "0.4.5": {
+            "id": "dbt-labs/facebook_ads/0.4.5",
+            "name": "facebook_ads",
+            "version": "0.4.5",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "88870c432416aa026fb09e5f3098e6bb52d7fee8"
+            }
+        },
+        "0.4.6": {
+            "id": "dbt-labs/facebook_ads/0.4.6",
+            "name": "facebook_ads",
+            "version": "0.4.6",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "40af07c8609a600a45082353ddf646ec861f56f2"
+            }
+        },
+        "0.4.7": {
+            "id": "dbt-labs/facebook_ads/0.4.7",
+            "name": "facebook_ads",
+            "version": "0.4.7",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": ">=0.1.20"
+                }
+            ],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d106f49caff988eea4cf85f17a63e40123118956"
+            }
+        },
+        "0.6.0": {
+            "id": "dbt-labs/facebook_ads/0.6.0",
+            "name": "facebook_ads",
+            "version": "0.6.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "aec3b14590e4f794a153d2be07809b4290dfca8a"
+            }
+        },
+        "0.6.1": {
+            "id": "dbt-labs/facebook_ads/0.6.1",
+            "name": "facebook_ads",
+            "version": "0.6.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.6.0",
+                        "<0.7.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.18.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "0bee00ce23e271079f814203bbab0a604393840a"
+            }
+        },
+        "0.7.0": {
+            "id": "dbt-labs/facebook_ads/0.7.0",
+            "name": "facebook_ads",
+            "version": "0.7.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.7.0",
+                        "<0.8.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b7e18fad39005fdf8522a94fe1113eb464ad6c10"
+            }
+        },
+        "0.7.1": {
+            "id": "dbt-labs/facebook_ads/0.7.1",
+            "name": "facebook_ads",
+            "version": "0.7.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.7.0",
+                        "<0.8.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.20.0",
+                "<1.1.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "359895ac860fb7e69048ac2162975a5cc70f88c2"
+            }
+        },
+        "0.8.0": {
+            "id": "dbt-labs/facebook_ads/0.8.0",
+            "name": "facebook_ads",
+            "version": "0.8.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "dbt-labs/dbt_utils",
+                    "version": [
+                        ">=0.8.0",
+                        "<0.9.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=1.0.0",
+                "<2.0.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "1a632507d6a776cb235f83591d1a6c698cbf4e80"
+            }
+        },
+        "0.1.0": {
+            "id": "dbt-labs/facebook_ads/v0.1.0",
+            "name": "facebook_ads",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "39064ab42630e9b3aeee78e247d23b7f8a43b90d"
+            }
+        },
+        "0.1.5": {
+            "id": "dbt-labs/facebook_ads/v0.1.5",
+            "name": "facebook_ads",
+            "version": "0.1.5",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "ef3ccf64ddcef3f01555b37f1bae14770a21987a"
+            }
+        },
+        "0.1.6": {
+            "id": "dbt-labs/facebook_ads/v0.1.6",
+            "name": "facebook_ads",
+            "version": "0.1.6",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": [],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "05c2068e1aa1c4509cf7245b2b64ed020493786b"
+            }
+        },
+        "0.5.0": {
+            "id": "dbt-labs/facebook_ads/v0.5.0",
+            "name": "facebook_ads",
+            "version": "0.5.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.1.20",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.17.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "bf0d9834e0a4133339c3c1771b7560c53532b762"
+            }
+        },
+        "0.5.1": {
+            "id": "dbt-labs/facebook_ads/v0.5.1",
+            "name": "facebook_ads",
+            "version": "0.5.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [
+                {
+                    "package": "fishtown-analytics/dbt_utils",
+                    "version": [
+                        ">=0.1.20",
+                        "<0.6.0"
+                    ]
+                }
+            ],
+            "require_dbt_version": [
+                ">=0.17.0"
+            ],
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b5c7b2f96bb7d9572be4b1247559dfe296eca348"
+            }
+        }
+    }
+}

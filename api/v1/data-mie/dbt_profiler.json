@@ -1,0 +1,207 @@
+{
+    "name": "dbt_profiler",
+    "namespace": "data-mie",
+    "description": "dbt models for dbt-profiler",
+    "latest": "0.5.0",
+    "assets": {
+        "logo": "logos/placeholder.svg"
+    },
+    "versions": {
+        "0.1.0": {
+            "id": "data-mie/dbt_profiler/0.1.0",
+            "name": "dbt_profiler",
+            "version": "0.1.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "bf6dc0610d95a534944c372fc2659c7999717e1e"
+            }
+        },
+        "0.1.1": {
+            "id": "data-mie/dbt_profiler/0.1.1",
+            "name": "dbt_profiler",
+            "version": "0.1.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "778725e7ad6497eeac7d46c692e687d8f3d9abf0"
+            }
+        },
+        "0.1.2": {
+            "id": "data-mie/dbt_profiler/0.1.2",
+            "name": "dbt_profiler",
+            "version": "0.1.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "07b763682ec8317405a468b02de3c618d2832d6d"
+            }
+        },
+        "0.1.3": {
+            "id": "data-mie/dbt_profiler/0.1.3",
+            "name": "dbt_profiler",
+            "version": "0.1.3",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b2dc4c91e17dc0fe03aac52f3eb4ed464fe33704"
+            }
+        },
+        "0.1.4": {
+            "id": "data-mie/dbt_profiler/0.1.4",
+            "name": "dbt_profiler",
+            "version": "0.1.4",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.18.0",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "945482d999011c1ed18c78c15f20bdc19d90034a"
+            }
+        },
+        "0.1.5": {
+            "id": "data-mie/dbt_profiler/0.1.5",
+            "name": "dbt_profiler",
+            "version": "0.1.5",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.19.2",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "b7f5565c5d10fc570eb56b642aa2714c5f3adc2f"
+            }
+        },
+        "0.1.6": {
+            "id": "data-mie/dbt_profiler/0.1.6",
+            "name": "dbt_profiler",
+            "version": "0.1.6",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.19.2",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "e3583c425ed3e21aff8ec68ec76d117a7202c131"
+            }
+        },
+        "0.2.0": {
+            "id": "data-mie/dbt_profiler/0.2.0",
+            "name": "dbt_profiler",
+            "version": "0.2.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.19.2",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "d8c6efe115986e7436be2e8757d08063d2f29d8f"
+            }
+        },
+        "0.3.0": {
+            "id": "data-mie/dbt_profiler/0.3.0",
+            "name": "dbt_profiler",
+            "version": "0.3.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.19.2",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "4b040c32e48f2e1381d67be8c7d913daa145a1cb"
+            }
+        },
+        "0.3.1": {
+            "id": "data-mie/dbt_profiler/0.3.1",
+            "name": "dbt_profiler",
+            "version": "0.3.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.19.2",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "64ac6f6a8bd90b8ac7364e09a3a0365ffd4a5276"
+            }
+        },
+        "0.3.2": {
+            "id": "data-mie/dbt_profiler/0.3.2",
+            "name": "dbt_profiler",
+            "version": "0.3.2",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.19.2",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "8756722572a21ac451660cda370df54073bb1c5b"
+            }
+        },
+        "0.4.0": {
+            "id": "data-mie/dbt_profiler/0.4.0",
+            "name": "dbt_profiler",
+            "version": "0.4.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.19.2",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "4f120d55671e73d7352c3b8601ca627bb7060f74"
+            }
+        },
+        "0.4.1": {
+            "id": "data-mie/dbt_profiler/0.4.1",
+            "name": "dbt_profiler",
+            "version": "0.4.1",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.19.2",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "9bbb7c6fcb96c278ca28f51ecd5823930fc165dc"
+            }
+        },
+        "0.5.0": {
+            "id": "data-mie/dbt_profiler/0.5.0",
+            "name": "dbt_profiler",
+            "version": "0.5.0",
+            "published_at": "1970-01-01T00:00:00.000000+00:00",
+            "packages": [],
+            "require_dbt_version": ">=0.19.2",
+            "works_with": [],
+            "downloads": {
+                "tarball": "https://raw.githubusercontent.com/ogr003/test-package-hub/main/tarballs/yu-iskw/dbt_unittest/dbt_unittest-0.2.0.tar.gz",
+                "format": "tgz",
+                "sha1": "5e4ca06ac505db7d194650a79524a147efdcce95"
+            }
+        }
+    }
+}
